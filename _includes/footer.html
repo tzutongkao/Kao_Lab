@@ -1,0 +1,60 @@
+<head>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+</head>
+
+<div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+
+
+		<div class="col-sm-4">
+      Funding:
+      <figure class="fourth">
+        <a href="https://www.sinica.edu.tw/en"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AS logo-1.png" style="width: 60px"></a>
+        <a href="https://www.most.gov.tw/?l=en"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MOST_logo2.png" style="width: 210px"></a>
+        <a href="https://ipmb.sinica.edu.tw/en"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IPMB_logo2.png" style="width: 280px"></a>
+      </figure>
+      <br/>
+      <p>&copy 2019 Ku Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a> adapted from <a href='https://www.allanlab.org/aboutwebsite.html'>Milan Allan template</a>.</a></p>
+		</div>
+
+
+		<div class="col-sm-4">
+		  R220/R222<br />
+      Institute of Plant and Microbial Biology<br />
+      Academia Sinica<br />
+		  128, Sect. 2, Academia Rd.<br />
+		  Taipei 11529<br />
+		  Taiwan <br />
+      (<a href="https://www.sinica.edu.tw/en/articles/37">Directions</a>)<br/>
+      <br/>
+      <a href="mailto:kulabMEEE@gmail.com" title="Email us">Lab email</a><br/>
+      +886-2-27871147 (lab/offices)<br/>
+      +886-2-27871059 (PI office)<br/>
+      {% if site.data.socialmedia %}
+      <div id="social-media">
+          {% assign sm = site.data.socialmedia %}
+          {% for entry in sm %}
+              {% assign key = entry | first %}
+              {% if sm[key].id %}
+                  <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fab {{ sm[key].fa-icon }} fa-3x"></i></a>
+              {% endif %}
+          {% endfor %}
+      </div>
+      {% endif %}
+		</div>
+
+
+    <div class="col-sm-4">
+      <div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Institute%20of%20Plant%20and%20Microbial%20Biology%20(IPMB)&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.whatismyip-address.com"></a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:350px;width:500px;}</style>
+    </div>
+
+
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
