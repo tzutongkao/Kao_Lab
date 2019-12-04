@@ -91,7 +91,7 @@
 .navbar-fixed-bottom {
   .navbar-collapse { // adjust site header
     max-height: $navbar-collapse-max-height;
-
+    
     @media (max-device-width: $screen-xs-min) and (orientation: landscape) {
       max-height: 200px;
     }
@@ -163,7 +163,7 @@
 .navbar-brand {  // adjust site header
   float: left;
   padding: $navbar-padding-vertical $navbar-padding-horizontal;
-  font-size: $font-size-large;
+  font-size: 30px;
   line-height: $line-height-computed;
   height: $navbar-height;
 
