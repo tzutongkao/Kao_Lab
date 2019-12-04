@@ -91,7 +91,7 @@
 .navbar-fixed-bottom {
   .navbar-collapse { // adjust site header
     max-height: $navbar-collapse-max-height;
-    font-size: 22px;
+    
     @media (max-device-width: $screen-xs-min) and (orientation: landscape) {
       max-height: 200px;
     }
