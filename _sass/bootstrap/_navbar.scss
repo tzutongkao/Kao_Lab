@@ -163,7 +163,7 @@
 .navbar-brand {  // adjust site header
   float: left;
   padding: $navbar-padding-vertical $navbar-padding-horizontal;
-  font-size: 30px;
+  font-size: $font-size-large;
   line-height: $line-height-computed;
   height: $navbar-height;
 
