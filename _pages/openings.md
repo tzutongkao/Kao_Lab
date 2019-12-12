@@ -44,7 +44,7 @@ We have long-term core-funded positions for people with a PhD or master's degree
 
 
 ### PhD
-As the national research institution, Academia Sinica offers PhD and master's programs in collaboration with major research universities in Taiwan. If you are interested in doing PhD research, please contact Chuan first before submitting your online application.
+As the national research institution, Academia Sinica offers PhD and master's programs in collaboration with major research universities in Taiwan. If you are interested in doing PhD research, please contact [Chuan Ku](mailto:chuanku@gate.sinica.edu.tw) first before submitting your online application.
 
 #### Programs
 * [Taiwan International Graduate Program (TIGP)](http://tigp.sinica.edu.tw/)
