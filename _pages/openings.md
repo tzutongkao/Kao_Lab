@@ -6,7 +6,7 @@ sitemap: false
 permalink: /positions
 ---
 
-# Open positions
+## Open positions
 
 We are always looking for highly motivated people! Here we value diversity both in our research topics and in our team composition, and passionate researchers from around the world are welcome to join us.
 
@@ -115,7 +115,7 @@ There are quite some programs available for short-term research stays in our lab
 
 <br/>
 
-## Our Institute
+### Our Institute
 Our lab is part of the [Institute of Plant and Microbial Biology](https://ipmb.sinica.edu.tw/en) (IPMB), which has nearly 300 researchers and staff members from Taiwan and more than 15 other countries. Among the four major research areas of IPMB, we are affiliated to Plant and Environmental Microbiology (PEM) as well as Chromosome Biology and Genomics. With its four core facilities covering cell biology, microscopy, flow cytometry, genomics, transcriptomics, proteomics, metabolomics, and bioinformatics, IPMB provides state-of-the-art equipment and excellent support for carrying out the best research. We, along with other IPMB labs, encourage science communication and international exchange by organizing seminars throughout the year and providing funding for attending conferences/workshops/courses and opportunities for research stays in collaborating institutes and labs.
 
 <figure>
@@ -127,7 +127,7 @@ IPMB is one of the 32 research units of [Academia Sinica](https://www.sinica.edu
 
 <br/>
 
-## Taipei, Taiwan
+### Taipei, Taiwan
 Our institute is located in Taipei, the capital city of Taiwan and center of the Taipei metropolitan area with a population of ~10 million. Taiwan is a mostly mountainous island state in East Asia and West Pacific, inhabited mainly by Han and Austronesian peoples and culturally influenced by neighboring countries, past colonizers, and new immigrants.
 
 Haven't been to Taiwan? Check out these websites to learn more about Taipei and Taiwan:
