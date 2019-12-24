@@ -30,11 +30,10 @@ Postdoc positions can be funded by the following options. All applicants will be
 * Relocation expenses, family allowance or benefits, and a small research grant may be available depending on the fellowship
 
 
-
 <br/>
 
 
-### Lab manager/research associate/bioinformatician
+### Staff: lab manager/research associate/bioinformatician
 We have long-term core-funded positions for people with a PhD or master's degree. <b>Currently we are actively looking for a lab manager.</b> The ideal candidate should have experience in cell culture, molecular biology, microscopy or flow cytometry and will maintain consumables and equipment in the lab. Feel free to write to Chuan anytime if you are interested in other kinds of positions.
 
 #### Benefits
