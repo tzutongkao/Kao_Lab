@@ -6,8 +6,8 @@ permalink: /pictures/
 ---
 
 # Pictures
-* [Plant and Environmental Microbiology lunch party](#2019-Lunch-party-of-Plant-and-Environmental-Microbiology-labs)
-* [Year-end party](#Year-end-hotpot-gaming-party-with-Kuo-Lab)
+* [Plant and Environmental Microbiology lunch party](#2019PEMparty)
+* [Year-end party](#2019YEP)
 * [Hot pot restaurant](#hot-pot-restaurant)
 * [Lab warming party](#lab-warming-party)
 * [Lab remodeling](#lab-remodeling) ([Before](#before), [During](#during) and [After](#after))
@@ -15,14 +15,14 @@ permalink: /pictures/
 <br/>
 
 
-### 2019 Lunch party of Plant and Environmental Microbiology labs
+### <a name="2019PEMparty"></a>2019 Lunch party of Plant and Environmental Microbiology labs
 <h5>23/Dec/2019</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/YearEndParties/2019_2020/IMG_20191223_121749.jpg" width="100%">
 </figure>
 
 
-### Year-end hotpot-gaming party with Kuo Lab
+### <a name="2019YEP"></a>Year-end hotpot-gaming party with Kuo Lab
 <h5>20/Dec/2019</h5>
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_2019YEP %}
@@ -64,10 +64,10 @@ permalink: /pictures/
 
 
 
-### Hot pot restaurant
+### Hotpot restaurant
 <h5>1/Aug/2019</h5>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/LabPhotos/P_20190801_195351.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/LabPhotos/P_20190801_195351.jpg" width="30%">
 </figure>
 
 
