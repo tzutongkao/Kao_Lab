@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-* [Plant and Environmental Microbiology lunch party](#2019 Lunch party of Plant and Environmental Microbiology labs)
+* [Plant and Environmental Microbiology lunch party](#2019-Lunch-party-of-Plant-and-Environmental-Microbiology-labs)
 * [Hot pot restaurant](#hot-pot-restaurant)
 * [Lab warming party](#lab-warming-party)
 * [Lab remodeling](#lab-remodeling) ([Before](#before), [During](#during) and [After](#after))
