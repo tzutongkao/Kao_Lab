@@ -11,7 +11,7 @@ permalink: /pictures/
 * [Lab warming party](#lab-warming-party)
 * [Lab remodeling](#lab-remodeling) ([Before](#before), [During](#during) and [After](#after))
 
-
+<br/>
 
 
 ### 2019 Lunch party of Plant and Environmental Microbiology labs
