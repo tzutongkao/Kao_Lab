@@ -15,10 +15,7 @@ To apply for a specific position (see below), please send an [email](mailto:chua
 <br/>
 
 <h3>Postdoc</h3>
-<details>
-  <summary>expand</summary>
-
- Postdoc positions can be funded by the following options. All applicants will be encouraged to apply for a competitive fellowship.
+Postdoc positions can be funded by the following options. All applicants will be encouraged to apply for a competitive fellowship.
 
 #### Funding
 * [EMBO Postdoctoral Fellowship](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships)
@@ -32,7 +29,6 @@ To apply for a specific position (see below), please send an [email](mailto:chua
 * Subsidized national health insurance, work insurance, and pension scheme
 * Relocation expenses, family allowance or benefits, and a small research grant may be available depending on the fellowship
 
-</details>
 
 
 <br/>
