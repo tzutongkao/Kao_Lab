@@ -27,7 +27,7 @@ Haven't been to Taiwan? Check out these websites to learn more about Taipei and 
 * [Our institutional guide for foreigners](https://dia.sinica.edu.tw/uploads/datas/2018/2/7663197245e19062cda00fe169391522.pdf)
 * [Expat Insider](https://www.internations.org/expat-insider/2019/best-and-worst-places-for-expats-39829) named Taiwan one of the best destinations for expats.
 * Taipei provides top [health care](https://www.numbeo.com/health-care/rankings_current.jsp) and has one of the lowest [crime rates](https://www.numbeo.com/crime/rankings.jsp) among ~300 cities in the world.
-* [Living costs of Taipei](https://www.borderless-house.com/tw/blog/taipei-20151216/). Our campus is on the outskirts of Taipei City, where the rent and other expenses might be different.
+* [Living costs in Taipei](https://www.borderless-house.com/tw/blog/taipei-20151216/). Our campus is on the outskirts of Taipei City, where the rent and other expenses might be different.
 
 <figure>
 <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/TaipeiSkyline.jpg" width="60%"></center>

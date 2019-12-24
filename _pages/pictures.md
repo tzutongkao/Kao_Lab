@@ -12,6 +12,16 @@ permalink: /pictures/
 
 
 
+
+### 2019 Lunch party of Plant and Environmental Microbiology labs
+<h5>23/Dec/2019</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/YearEndParties/2019_2020/IMG_20191223_121749.jpg" width="60%">
+</figure>
+
+
+
+
 ### Hot pot restaurant
 <h5>1/Aug/2019</h5>
 <figure>
