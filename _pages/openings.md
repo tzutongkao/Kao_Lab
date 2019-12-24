@@ -14,7 +14,7 @@ To apply for a specific position (see below), please send an [email](mailto:chua
 
 <br/>
 
-### Postdoc
+<h3>Postdoc</h3>
 Postdoc positions can be funded by the following options. All applicants will be encouraged to apply for a competitive fellowship.
 
 #### Funding
