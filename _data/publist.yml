@@ -1,3 +1,12 @@
+- title: "Did giant and large dsDNA viruses originate before their eukaryotic hosts?"
+  image:
+  description:
+  link:
+    url:
+    display:  Proceedings of the National Academy of Sciences of the United States of America (accepted)
+  highlight:
+  news1:
+
 - title: "Using single-cell transcriptomics to understand functional states and interactions in microbial eukaryotes"
   image: PhilTransB_Fig1.png
   description: An overview of current scRNA-seq methods and their potential applications for microbial eukaryotes
@@ -75,7 +84,7 @@
   authors: Chuan Ku, Shijulal Nelson-Sathi, Mayo Roettger, Sriram Garg, Einat Hazkani-Covo, William F. Martin
   link:
     url: https://www.pnas.org/content/112/33/10139
-    display:  PNAS (2015)
+    display:  Proceedings of the National Academy of Sciences of the United States of America (2015)
   highlight: 1
   news2:
 
