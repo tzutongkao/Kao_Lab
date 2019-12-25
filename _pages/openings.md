@@ -68,7 +68,7 @@ Master's programs in Taiwan are usually for two years. Our lab is associated wit
 * Microbiology (with Soochow University)
 
 #### Benefits
-* Stipend: ~500 USD/month (Additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
+* Stipend: ~500 USD/month (additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
 * Subsidized national health insurance
 * Eligibility for dormitory housing
 
