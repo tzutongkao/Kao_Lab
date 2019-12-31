@@ -82,7 +82,7 @@ There are quite some programs available for short-term research stays in our lab
   * Duration: 2-3 months between May and September (summer internship) or February and April (spring internship)
   * Eligibility: undergraduate/master's students or recent graduates
   * Benefits: airfare, accommodation, stipend (~1000 USD/month)
-  * Application deadlines: mid-December
+  * Application deadlines: February 28 (summer internship)
 * IPMB Summer Internship
   * Duration: 2-3 months around July and August
   * Eligibility: undergraduate students
