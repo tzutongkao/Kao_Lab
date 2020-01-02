@@ -54,7 +54,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 * Plant Biology (with National Taiwan University)
 
 #### Benefits
-* Stipend: ~1,130-1,300 USD/month
+* Stipend: ~1,130-1,330 USD/month
 * Subsidized national health insurance
 * Eligibility for dormitory housing
 
