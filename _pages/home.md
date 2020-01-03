@@ -10,7 +10,7 @@ Our research group has broad interests in microbial eukaryotes. Often called pro
 
 We are currently focusing on three research areas: 1. evolutionary history and mechanisms of marine microalgae (which account for half of CO<sub>2</sub> fixation worldwide); 2. genome regulation and evolution of giant viruses infecting diverse microbial eukaryotes; and 3. dissecting interactions between microbial eukaryotes using single-cell omics approaches.
 
-Our lab belongs to the [Institute of Plant and Microbial Biology](https://ipmb.sinica.edu.tw/en), which is part of Academia Sinica, both the national academy and foremost research institution of Taiwan. The principal investigator is Chuan Ku (顧銓).
+Our lab belongs to the [Institute of Plant and Microbial Biology](https://ipmb.sinica.edu.tw/en), which is part of Academia Sinica, both the national academy and foremost research institution of Taiwan. The principal investigator is Chuan Ku (顧銓). 歡迎來到中研院植微所的真核微生物演化生態研究室。 
 
 
 
