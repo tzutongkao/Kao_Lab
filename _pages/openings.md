@@ -98,11 +98,11 @@ There are quite some programs available for short-term research stays in our lab
   * Eligibility: undergraduate/master's/PhD students or graduates who are German nationals or enrolled at a German university
   * Benefits: travel costs, insurance, stipend (~900 EUR), participation in an alumni meeting
   * Application deadlines: mid-February
-* MOST Undergraduate Research Grant
+* MOST Undergraduate Research Grant (科技部大專學生研究計畫)
     * Duration: 8 months (July-February)
     * Eligibility: undergraduate students enrolled at a Taiwanese university
     * Benefits: stipend (~200 USD/month)
-    * Application deadlines: early March
+    * Application deadlines: February 19
 
 #### Visits/collaboration
 * [EMBO Short-Term Fellowship](https://www.embo.org/funding-awards/fellowships/short-term-fellowships)
