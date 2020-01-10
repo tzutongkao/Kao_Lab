@@ -12,6 +12,8 @@ We are always looking for highly motivated people! Here we value diversity both 
 
 To apply for a specific position (see below), please send an [email](mailto:chuanku@gate.sinica.edu.tw) with the subject IPMB_application_WhatPosition_YourName directly to Chuan Ku, briefly describing your research interests, experience, skills, future plan, and contact details of one or two referees. A single PDF should be attached that includes your CV, and, if relevant, transcripts, degree certificates, thesis title and abstract, and proofs of relevant skills and experience.
 
+English is the working language in our lab and institute. Mandarin skills are not required, but there are free classes on campus for those interested.
+
 <br/>
 
 <h3>Postdoc</h3>
