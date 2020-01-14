@@ -1,7 +1,7 @@
 - name: Chuan Ku (顧銓)
   photo: Chuan.jpg
-  info: Assistant research fellow / professor (2019.01–)
-  email: chuanku@gate.sinica.edu.tw [CV]({{ site.baseurl }}/downloads/CV_200114.pdf)
+  info: Assistant research fellow / professor (2019.01–) [[CV]({{ site.baseurl }}/downloads/CV_200114.pdf)]
+  email: chuanku@gate.sinica.edu.tw
   number_educ: 5
   education1: B.Sc., Life Science (minor in Geosciences), National Taiwan University
   education2: M.Sc., Ecology and Evolutionary Biology, Natioanl Taiwan University (with <a href="https://ecology.lifescience.ntu.edu.tw/doku.php/en/jmhu/start">Jer-Ming Hu</a>)
