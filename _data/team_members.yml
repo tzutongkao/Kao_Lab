@@ -1,6 +1,6 @@
 - name: Chuan Ku (顧銓)
   photo: Chuan.jpg
-  info: Assistant research fellow / professor (2019.01–) [[CV]("{{ site.url }}{{ site.baseurl }}/downloads/CV_200114.pdf")]
+  info: Assistant research fellow / professor (2019.01–) [<a href="https://chuanku-lab.github.io/kulab/downloads/CV_200114.pdf">CV</a>]
   email: chuanku@gate.sinica.edu.tw
   number_educ: 5
   education1: B.Sc., Life Science (minor in Geosciences), National Taiwan University
