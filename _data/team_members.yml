@@ -10,7 +10,7 @@
   education5: Postdoc, Plant and Environmental Sciences, Weizmann Institute of Science, Israel (with <a href="http://www.weizmann.ac.il/plants/vardi/home">Assaf Vardi</a>) [<a href="https://www.embo.org/">EMBO</a> fellowship]
 
 - name: Tzu-Tong Kao (高資棟)
-  photo: avatar.png
+  photo: avatar.jpg
   info: Postdoctoral researcher (2020.02–)
   email: tzutongkao@gate.sinica.edu.tw
   number_educ: 4
@@ -43,6 +43,14 @@
   education2: M.Sc., Oceanography, National Taiwan University (with <a href="http://biodiv.sinica.edu.tw/~sltang/index.php">Sen-Lin Tang</a>)
 
 - name: Tsu-Wang Sun (孫祖望)
+  photo: TsuWang.jpg
+  info: Undergrad researcher (2019.07–)
+  email: chatzopoulos@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: B.Sc., Plant Pathology, National Chung Hsing University
+  education2: Undergraduate research grant from Ministry of Science and Technology (2019.07–2020.02)
+
+- name: Siwat Chang (孫祖望)
   photo: TsuWang.jpg
   info: Undergrad researcher (2019.07–)
   email: chatzopoulos@Physics.LeidenUniv.nl
