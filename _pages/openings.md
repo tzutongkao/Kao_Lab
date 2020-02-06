@@ -53,7 +53,11 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 * [Taiwan International Graduate Program (TIGP)](http://tigp.sinica.edu.tw/) (application deadline: February)
   * [Biodiversity](http://tigp-biodiv.biodiv.tw/)
   * Molecular and Biological Agricultural Sciences
-* Plant Biology (with National Taiwan University)
+* Joint programs with universities
+  * Plant Biology (with National Taiwan University)
+  * Marine Biotechnology (with National Taiwan Ocean University)
+  * Microbial Genomics (with National Chung Hsing University)
+
 
 #### Benefits
 * Stipend: ~1,130-1,330 USD/month
