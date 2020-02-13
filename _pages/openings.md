@@ -88,27 +88,27 @@ There are quite some programs available for short-term research stays in our lab
   * Duration: 2-3 months between May and September (summer internship) or February and April (spring internship)
   * Eligibility: undergraduate/master's students or recent graduates
   * Benefits: airfare, accommodation, stipend (~1000 USD/month)
-  * Application deadlines: February 29 (summer internship)
+  * Application deadline: February 29 (summer internship)
 * IPMB Summer Internship
   * Duration: 2-3 months around July and August
   * Eligibility: undergraduate students
   * Benefits: accommodation, stipend
-  * Application deadlines: April 30
+  * Application deadline: April 30
 * [DAAD RISE Worldwide](https://www.daad.de/rise/en/rise-worldwide/)
   * Duration: 2-3 months between June and October
   * Eligibility: undergraduate students enrolled at a German university
   * Benefits: travel costs, insurance, stipend, participation in an alumni meeting
-  * Application deadlines: mid-December
+  * Application deadline: mid-December
 * [MOST-DAAD Taiwan Summer Institute Program](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?status=3&target=103&subjectGrps=&intention=&daad=&q=&page=5&detail=50745820)
   * Duration: 2 months (August and September)
   * Eligibility: undergraduate/master's/PhD students or graduates who are German nationals or enrolled at a German university
   * Benefits: travel costs, insurance, stipend (~900 EUR), participation in an alumni meeting
-  * Application deadlines: mid-February
+  * Application deadline: mid-February
 * MOST Undergraduate Research Grant (科技部大專學生研究計畫)
     * Duration: 8 months (July-February)
     * Eligibility: undergraduate students enrolled at a Taiwanese university
     * Benefits: stipend (~200 USD/month)
-    * Application deadlines: February 19
+    * Application deadline: March 9
 
 #### Visits/collaboration
 * [EMBO Short-Term Fellowship](https://www.embo.org/funding-awards/fellowships/short-term-fellowships)
