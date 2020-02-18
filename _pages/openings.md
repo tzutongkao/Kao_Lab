@@ -60,7 +60,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 
 
 #### Benefits
-* Stipend: ~1,130-1,330 USD/month
+* Stipend: ~1,130-1,660 USD/month
 * Subsidized national health insurance
 * Eligibility for dormitory housing
 
@@ -74,7 +74,7 @@ Master's programs in Taiwan are usually for two years. Our lab is associated wit
 * Microbiology (with Soochow University)
 
 #### Benefits
-* Stipend: ~500 USD/month (additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
+* Stipend: ~500-660 USD/month (additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
 * Subsidized national health insurance
 * Eligibility for dormitory housing
 
