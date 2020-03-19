@@ -54,9 +54,17 @@ permalink: /pictures/equipment
 
 </div>
 
+
 <div id="newsid" class="col-sm-6" >
+
 <h5>Microfluidic Liquid Handler ([Formulatrix Mantis](IMG_7898_Mantis))</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7898_Mantis.jpeg" width="90%">
 </figure>
+
+<h5>Freezer, BSC, Hood, Chemical Cabinet</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7899_Freezer_BSC_Hood.jpeg" width="90%">
+</figure>
+
 </div>
