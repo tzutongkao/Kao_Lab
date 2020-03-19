@@ -57,7 +57,7 @@ permalink: /pictures/equipment
 
 <div id="newsid" class="col-sm-6" >
 
-<h5>Microfluidic Liquid Handler ([Formulatrix Mantis](IMG_7898_Mantis))</h5>
+<h5>Microfluidic Liquid Handler ([Formulatrix Mantis](https://formulatrix.com/liquid-handling-systems/mantis-liquid-handler/))</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7898_Mantis.jpeg" width="90%">
 </figure>
