@@ -41,14 +41,21 @@ permalink: /pictures/equipment
 
 ### <a name="R222"></a>R222 Lab
 <div id="homeid" class="col-sm-6">
+
 <h5>Growth Chamber</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7902_GrowthChamber.jpeg" width="90%">
 </figure>
+
+<h5>Thermal Cyclers (SensoQuest LabCycler)</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7882_LabCyclers.jpeg" width="90%">
+</figure>
+
 </div>
 
 <div id="newsid" class="col-sm-6" >
-<h5>Microfluidic Liquid Handler (Formulatrix Mantis)</h5>
+<h5>Microfluidic Liquid Handler ([Formulatrix Mantis](IMG_7898_Mantis))</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7898_Mantis.jpeg" width="90%">
 </figure>
