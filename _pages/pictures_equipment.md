@@ -2,23 +2,11 @@
 title: "Ku Lab - Gallery"
 layout: piclay
 excerpt: "Ku Lab -- Gallery"
-permalink: /pictures/
+permalink: /pictures/equipment
 ---
 
-# Pictures
-#### 2019
-* [Plant and Environmental Microbiology lunch party](#2019PEMparty)
-* [Year-end party](#2019YEP)
-* [Hot pot restaurant](#hot-pot-restaurant)
-* [Lab warming party](#lab-warming-party)
-* [Lab remodeling](#lab-remodeling) ([Before](#before), [During](#during) and [After](#after))
-#### facilities
-* [Lab equipment]({{ site.url }}{{ site.baseurl }}/pictures/equipment)
 
-<br/>
-
-
-### <a name="2019PEMparty"></a>2019 Lunch party of Plant and Environmental Microbiology labs
+### <a name="2019PEMparty"></a>IPMB Cell Biology Core Lab: light microscopes
 <h5>23/Dec/2019</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/YearEndParties/2019_2020/IMG_20191223_121749.jpg" width="100%">
