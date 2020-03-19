@@ -5,15 +5,16 @@ excerpt: "Ku Lab -- Gallery"
 permalink: /pictures/equipment
 ---
 
+# Lab equipment
 
-### <a name="2019PEMparty"></a>IPMB Cell Biology Core Lab: light microscopes
-<h5>23/Dec/2019</h5>
+### <a name="CellBiolLM"></a>[IPMB Cell Biology Core Lab: light microscopy](https://ipmb.sinica.edu.tw/en/core/Live-Cell-Imaging-Core-Lab)
+<h5>Fluorescence Microscope (Zeiss Axio Imager Z1)</h5>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/YearEndParties/2019_2020/IMG_20191223_121749.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7876_Z1.jpeg" width="100%">
 </figure>
 
 
-### <a name="2019YEP"></a>Year-end hotpot-gaming party with Kuo Lab
+### <a name="2019YEP"></a>IPMB Cell Biology Core Lab: flow cytometry
 <h5>20/Dec/2019</h5>
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_2019YEP %}
