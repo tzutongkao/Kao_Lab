@@ -11,14 +11,14 @@ permalink: /pictures/equipment
 <div id="homeid" class="col-sm-6">
 <h5>Fluorescence Microscope (Zeiss Axio Imager Z1)</h5>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7876_Z1.jpeg" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7876_Z1.jpeg" width="80%">
 </figure>
 </div>
 
 <div id="newsid" class="col-sm-6" >
 <h5>Polarized Light Microscope (LC-PolScope)</h5>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7877_PolScope.jpeg" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7877_PolScope.jpeg" width="80%">
 </figure>
 </div>
 
