@@ -13,6 +13,10 @@ permalink: /pictures/equipment
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7876_Z1.jpeg" width="100%">
 </figure>
 
+<h5>Polarized Light Microscope (LC-PolScope)</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7877_PolScope.jpeg" width="100%">
+</figure>
 
 ### <a name="2019YEP"></a>IPMB Cell Biology Core Lab: flow cytometry
 <h5>20/Dec/2019</h5>
