@@ -12,6 +12,7 @@ permalink: /pictures/
 * [Hot pot restaurant](#hot-pot-restaurant)
 * [Lab warming party](#lab-warming-party)
 * [Lab remodeling](#lab-remodeling) ([Before](#before), [During](#during) and [After](#after))
+
 #### facilities
 * [Lab equipment]({{ site.url }}{{ site.baseurl }}/pictures/equipment)
 
