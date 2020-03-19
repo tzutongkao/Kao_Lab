@@ -10,12 +10,12 @@ permalink: /pictures/equipment
 ### <a name="CellBiolLM"></a>[IPMB Cell Biology Core Lab: light microscopy](https://ipmb.sinica.edu.tw/en/core/Live-Cell-Imaging-Core-Lab)
 <h5>Fluorescence Microscope (Zeiss Axio Imager Z1)</h5>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7876_Z1.jpeg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7876_Z1.jpeg" width="50%">
 </figure>
 
 <h5>Polarized Light Microscope (LC-PolScope)</h5>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7877_PolScope.jpeg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7877_PolScope.jpeg" width="50%">
 </figure>
 
 ### <a name="2019YEP"></a>IPMB Cell Biology Core Lab: flow cytometry
