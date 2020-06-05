@@ -54,10 +54,12 @@ As the national research institution, Academia Sinica offers PhD and master's pr
   * [Biodiversity](http://tigp-biodiv.biodiv.tw/)
   * Molecular and Biological Agricultural Sciences
   * [Bioinformatics](https://tigpbp.iis.sinica.edu.tw/tigpbio/old/index.html)
-* Joint programs with universities
+* Joint programs between IPMB/AS and universities
   * Plant Biology (with National Taiwan University)
   * Marine Biotechnology (with National Taiwan Ocean University)
   * Microbial Genomics (with National Chung Hsing University)
+* Other programs
+  * [Ecology and Evolutionary Biology (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_phd) [starting in Aug. 2020]
 
 
 #### Benefits
@@ -71,8 +73,9 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 Master's programs in Taiwan are usually for two years. Our lab is associated with the following programs.
 
 #### Programs
-* Life Sciences (with National Central University)
-* Microbiology (with Soochow University)
+* [Ecology and Evolutionary Biology (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_master) [starting in Aug. 2020]
+* Life Sciences (National Central University)
+* Microbiology (Soochow University)
 
 #### Benefits
 * Stipend: ~500-660 USD/month (additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
