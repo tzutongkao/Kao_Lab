@@ -55,11 +55,12 @@ As the national research institution, Academia Sinica offers PhD and master's pr
   * Molecular and Biological Agricultural Sciences
   * [Bioinformatics](https://tigpbp.iis.sinica.edu.tw/tigpbio/old/index.html)
 * Joint programs between IPMB/AS and universities
-  * Plant Biology (with National Taiwan University)
-  * Marine Biotechnology (with National Taiwan Ocean University)
+  * [Genome and Systems Biology (with National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
+  * [Plant Biology (with National Taiwan University)](https://www.ntuipb.info/home-eng)
+  * [Marine Biotechnology (with National Taiwan Ocean University)](http://www.ddpmb.ntou.edu.tw/bin/home.php)
   * Microbial Genomics (with National Chung Hsing University)
 * Other programs
-  * [Ecology and Evolutionary Biology (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_phd) [starting in Aug. 2020]
+  * [Ecology and Evolutionary Biology (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_phd)
 
 
 #### Benefits
@@ -73,7 +74,8 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 Master's programs in Taiwan are usually for two years. Our lab is associated with the following programs.
 
 #### Programs
-* [Ecology and Evolutionary Biology (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_master) [starting in Aug. 2020]
+* [Ecology and Evolutionary Biology (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_master)
+* [Genome and Systems Biology (National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
 * Life Sciences (National Central University)
 * Microbiology (Soochow University)
 
