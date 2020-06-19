@@ -36,7 +36,8 @@ Postdoc positions can be funded by the following options. All applicants will be
 
 
 ### Staff: lab manager/research associate/bioinformatician
-We have long-term core-funded positions for people with a PhD or master's degree. <b>Currently we are actively looking for a lab manager.</b> The ideal candidate should have experience in cell culture, molecular biology, microscopy or flow cytometry and will maintain consumables and equipment in the lab. Feel free to write to Chuan anytime if you are interested in other kinds of positions.
+From time to time, we have long-term core- or project-funded positions for people with a PhD or master's degree.
+Currently we are actively looking for bioinformaticians. The ideal candidates should have experience in analyzing sequencing and omics data in the fields of evolutionary biology, genome regulation and/or ecology.
 
 #### Benefits
 * Salary: ~20,000-40,000 USD/year
