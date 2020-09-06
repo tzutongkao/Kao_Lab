@@ -21,18 +21,20 @@ permalink: /pictures/
 <br/>
 
 
-### <a name="2020SepDinner"></a>German-Swiss restaurant + Shaved Ice Store
+### <a name="2020SepDinner"></a>
 <h5>04/Sep/2020</h5>
 
 <div id="homeid" class="col-sm-6">
+<h5>German/Swiss restaurant</h5>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/200904/P_20200904_183040.jpg" width="90%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/200904/P_20200904_183040.jpg" width="100%">
 </figure>
 </div>
 
 <div id="newsid" class="col-sm-6" >
+<h5>Shaved ice store</h5>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/200904/P_20200904_201818.jpg" width="90%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/200904/P_20200904_201818.jpg" width="100%">
 </figure>
 </div>
 
