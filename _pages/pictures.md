@@ -21,7 +21,7 @@ permalink: /pictures/
 <br/>
 
 
-### <a name="2020SepDinner">2020 Lab gathering</a>
+### <a name="2020SepDinner"></a>2020 Lab gathering
 <h5>04/Sep/2020</h5>
 
 <div id="homeid" class="col-sm-6">
