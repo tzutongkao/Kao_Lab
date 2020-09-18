@@ -61,6 +61,14 @@
   number_educ: 1
   education1: B.Sc., Biochemistry, Imperial College London, UK
 
+- name: Elias Miguel Barreira
+  photo: avatar.jpg
+  info: Visiting master's student (2020.09–)
+  email: libraries.area@gmail.com
+  number_educ: 2
+  education1: M.Sc., Computer Science, University of Lisbon, Portugal
+  education2: M.Sc., Bioinformatics, University of Lisbon, Portugal
+
 - name: Tong Jyun (Tom) Ho
   photo: Tom.jpg
   info: Research intern (2020.06–)
