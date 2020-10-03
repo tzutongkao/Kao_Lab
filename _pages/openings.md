@@ -40,7 +40,7 @@ From time to time, we have long-term core- or project-funded positions for peopl
 Currently we are actively looking for bioinformaticians. The ideal candidates should have experience in analyzing sequencing and omics data in the fields of evolutionary biology, genome regulation and/or ecology.
 
 #### Benefits
-* Salary: ~20,000-40,000 USD/year
+* Salary: ~21,000-41,500 USD/year
 * Subsidized national health insurance, work insurance, and pension scheme
 * Other benefits of IPMB employees
 
@@ -65,7 +65,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 
 
 #### Benefits
-* Stipend: ~1,130-1,660 USD/month
+* Stipend: ~1,180-1,720 USD/month
 * Subsidized national health insurance
 * Eligibility for dormitory housing
 
@@ -81,7 +81,7 @@ Master's programs in Taiwan are usually for two years. Our lab is associated wit
 * Microbiology (Soochow University)
 
 #### Benefits
-* Stipend: ~500-660 USD/month (additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
+* Stipend: ~500-690 USD/month (additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
 * Subsidized national health insurance
 * Eligibility for dormitory housing
 
