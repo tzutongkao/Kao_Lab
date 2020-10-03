@@ -27,7 +27,7 @@ Postdoc positions can be funded by the following options. All applicants will be
 * Core funding or grants
 
 #### Benefits
-* Salary: ~29,000-40,000 USD/year
+* Salary: ~29,000-41,500 USD/year
 * Subsidized national health insurance, work insurance, and pension scheme
 * Relocation expenses, family allowance or benefits, and a small research grant may be available depending on the fellowship
 
