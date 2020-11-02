@@ -78,7 +78,7 @@ Master's programs in Taiwan are usually for two years. Our lab is associated wit
 * [Ecology and Evolutionary Biology (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_master)
 * [Genome and Systems Biology (National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
 * [Life Sciences (National Central University)](https://nculs.in.ncu.edu.tw/index.php/Index/index.html)
-* Microbiology (Soochow University)
+* [Microbiology (Soochow University)](http://microbiology.scu.edu.tw/nexus/)
 
 #### Benefits
 * Stipend: ~500-690 USD/month (additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
