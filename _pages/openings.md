@@ -77,7 +77,7 @@ Master's programs in Taiwan are usually for two years. Our lab is associated wit
 #### Programs
 * [Ecology and Evolutionary Biology (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_master)
 * [Genome and Systems Biology (National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
-* Life Sciences (National Central University)
+* [Life Sciences (National Central University)](https://nculs.in.ncu.edu.tw/index.php/Index/index.html)
 * Microbiology (Soochow University)
 
 #### Benefits
