@@ -8,7 +8,7 @@ permalink: /positions
 
 ## Open positions
 
-**We are always looking for highly motivated people!** Here we value diversity both in our research topics and in our team composition, and passionate researchers from around the world are welcome to join us.
+**We are always looking for highly motivated people!** Currently positions are available for both <a href='https://chuanku-lab.github.io/kulab/downloads/JobAd_Postdoc.pdf'>postdocs</a> and <a href='https://www.isme-microbes.org/jobs/graduate-positions'>graduate researchers</a>. Here we value diversity both in our research topics and in our team composition, and passionate researchers from around the world are welcome to join us.
 
 To apply for a specific position (see below), please send an [email](mailto:chuanku@gate.sinica.edu.tw) with the subject IPMB_application_WhatPosition_YourName directly to Chuan Ku, briefly describing your research interests, experience, skills, future plan, and contact details of one or two referees. A single PDF should be attached that includes your CV, and, if relevant, transcripts, degree certificates, thesis title and abstract, and proofs of relevant skills and experience.
 
