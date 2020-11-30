@@ -7,6 +7,7 @@ permalink: /pictures/
 
 # Pictures
 #### 2020
+* [Genome and Systems Biology retreat and annual contest](#2020GSB)
 * [Lab gathering](#2020SepDinner)
 
 #### 2019
@@ -19,6 +20,16 @@ permalink: /pictures/
 #### [Lab equipment]({{ site.url }}{{ site.baseurl }}/pictures/equipment)
 
 <br/>
+
+### <a name="2020GSB"></a>2020 Genome and Systems Biology retreat and annual contest
+<h5>30/Nov/2020</h5>
+
+<div id="homeid" class="col-sm-6">
+<h5>Poster prize for Tsu-Wang</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/201130/TWS_GSB2020retreatAnnualContest.jpg" width="100%">
+</figure>
+</div>
 
 
 ### <a name="2020SepDinner"></a>2020 Lab gathering
