@@ -23,9 +23,13 @@ permalink: /pictures/
 
 ### <a name="2020GSB"></a>2020 Genome and Systems Biology Degree Program retreat and annual contest
 <h5>30/Nov/2020</h5>
+<h5>Poster prize for Tsu-Wang</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/201130/TWS_GSB2020retreatAnnualContest.jpg" width="50%">
+</figure>
+
 
 <div id="homeid" class="col-sm-12">
-<h5>Poster prize for Tsu-Wang</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/201130/TWS_GSB2020retreatAnnualContest.jpg" width="100%">
 </figure>
