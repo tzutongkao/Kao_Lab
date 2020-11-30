@@ -21,7 +21,7 @@ permalink: /pictures/
 
 <br/>
 
-### <a name="2020GSB"></a>2020 Genome and Systems Biology retreat and annual contest
+### <a name="2020GSB"></a>2020 Genome and Systems Biology Degree Program retreat and annual contest
 <h5>30/Nov/2020</h5>
 
 <div id="homeid" class="col-sm-6">
