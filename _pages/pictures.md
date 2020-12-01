@@ -29,13 +29,6 @@ permalink: /pictures/
 </figure>
 
 
-<div id="homeid" class="col-sm-12">
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/201130/TWS_GSB2020retreatAnnualContest.jpg" width="100%">
-</figure>
-</div>
-
-
 ### <a name="2020SepDinner"></a>2020 Lab gathering
 <h5>04/Sep/2020</h5>
 
