@@ -69,8 +69,8 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 * Eligibility for dormitory housing
 
 #### Application and additional information
-* TIGP: [application](https://tigp.apps.sinica.edu.tw/index.php), [general information](https://tigp.sinica.edu.tw/)
-* National Taiwan University (GSB, EEB, Plant Biology): [application (Office of International affairs)](http://oia.ntu.edu.tw/apply-to-ntu), [College of Life Science](https://youtu.be/mthyfB0OJR8)
+* TIGP: [application](https://tigp.apps.sinica.edu.tw/index.php)
+* National Taiwan University (GSB, EEB, Plant Biology): [application (Office of International affairs)](http://oia.ntu.edu.tw/apply-to-ntu), (program requirements and admission quotas)[https://oiasystem.ntu.edu.tw/admission/foreign/requirement/dept.list/id/38/fsemester/1/fdisplay/1?lang=en], [College of Life Science](https://youtu.be/mthyfB0OJR8)
 
 <br/>
 
