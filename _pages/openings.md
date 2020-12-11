@@ -53,21 +53,24 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 #### Programs
 * [Taiwan International Graduate Program (TIGP)](http://tigp.sinica.edu.tw/) (application deadline: February)
   * [Biodiversity](http://tigp-biodiv.biodiv.tw/)
-  * [Molecular and Biological Agricultural Sciences](http://abrc.sinica.edu.tw/mbas/)
+  * [Molecular and Biological Agricultural Sciences (MBAS)](http://abrc.sinica.edu.tw/mbas/)
   * [Bioinformatics](https://tigpbp.iis.sinica.edu.tw/tigpbio/old/index.html)
 * Joint programs between IPMB/AS and universities
-  * [Genome and Systems Biology (with National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
+  * [Genome and Systems Biology (GSB) (with National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
   * [Plant Biology (with National Taiwan University)](https://www.ntuipb.info/home-eng)
   * [Marine Biotechnology (with National Taiwan Ocean University)](http://www.ddpmb.ntou.edu.tw/bin/home.php)
   * Microbial Genomics (with National Chung Hsing University)
 * Other programs
-  * [Ecology and Evolutionary Biology (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_phd)
-
+  * [Ecology and Evolutionary Biology (EEB) (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_phd)
 
 #### Benefits
 * Stipend: ~1,180-1,720 USD/month
 * Subsidized national health insurance
 * Eligibility for dormitory housing
+
+#### Application and additional information
+* TIGP: [application](https://tigp.apps.sinica.edu.tw/index.php), [general information](https://tigp.sinica.edu.tw/)
+* National Taiwan University (GSB, EEB, Plant Biology): [application (Office of International affairs)](http://oia.ntu.edu.tw/apply-to-ntu), [College of Life Science](https://youtu.be/mthyfB0OJR8)
 
 <br/>
 
