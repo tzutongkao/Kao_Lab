@@ -70,7 +70,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 
 #### Application and additional information
 * TIGP: [application](https://tigp.apps.sinica.edu.tw/index.php)
-* National Taiwan University (GSB, EEB, PB): [application (Office of International affairs)](http://oia.ntu.edu.tw/apply-to-ntu), (program requirements and admission quotas)[https://oiasystem.ntu.edu.tw/admission/foreign/requirement/dept.list/id/38/fsemester/1/fdisplay/1?lang=en], [College of Life Science](https://youtu.be/mthyfB0OJR8)
+* National Taiwan University (GSB, EEB, PB): [application (Office of International affairs)](http://oia.ntu.edu.tw/apply-to-ntu), [program requirements and admission quotas](https://oiasystem.ntu.edu.tw/admission/foreign/requirement/dept.list/id/38/fsemester/1/fdisplay/1?lang=en), [College of Life Science](https://youtu.be/mthyfB0OJR8)
 
 <br/>
 
@@ -89,7 +89,7 @@ Master's programs in Taiwan are usually for two years. Our lab is associated wit
 * Eligibility for dormitory housing
 
 #### Application and additional information
-* National Taiwan University (GSB, EEB): [application (Office of International affairs)](http://oia.ntu.edu.tw/apply-to-ntu), (program requirements and admission quotas)[https://oiasystem.ntu.edu.tw/admission/foreign/requirement/dept.list/id/38/fsemester/1/fdisplay/1?lang=en], [College of Life Science](https://youtu.be/mthyfB0OJR8)
+* National Taiwan University (GSB, EEB): [application (Office of International affairs)](http://oia.ntu.edu.tw/apply-to-ntu), [program requirements and admission quotas](https://oiasystem.ntu.edu.tw/admission/foreign/requirement/dept.list/id/38/fsemester/1/fdisplay/1?lang=en), [College of Life Science](https://youtu.be/mthyfB0OJR8)
 
 <br/>
 
