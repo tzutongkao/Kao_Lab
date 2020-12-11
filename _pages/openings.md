@@ -57,7 +57,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
   * [Bioinformatics](https://tigpbp.iis.sinica.edu.tw/tigpbio/old/index.html)
 * Joint programs between IPMB/AS and universities
   * [Genome and Systems Biology (GSB) (with National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
-  * [Plant Biology (with National Taiwan University)](https://www.ntuipb.info/home-eng)
+  * [Plant Biology (PB) (with National Taiwan University)](https://www.ntuipb.info/home-eng)
   * [Marine Biotechnology (with National Taiwan Ocean University)](http://www.ddpmb.ntou.edu.tw/bin/home.php)
   * Microbial Genomics (with National Chung Hsing University)
 * Other programs
@@ -70,7 +70,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 
 #### Application and additional information
 * TIGP: [application](https://tigp.apps.sinica.edu.tw/index.php)
-* National Taiwan University (GSB, EEB, Plant Biology): [application (Office of International affairs)](http://oia.ntu.edu.tw/apply-to-ntu), (program requirements and admission quotas)[https://oiasystem.ntu.edu.tw/admission/foreign/requirement/dept.list/id/38/fsemester/1/fdisplay/1?lang=en], [College of Life Science](https://youtu.be/mthyfB0OJR8)
+* National Taiwan University (GSB, EEB, PB): [application (Office of International affairs)](http://oia.ntu.edu.tw/apply-to-ntu), (program requirements and admission quotas)[https://oiasystem.ntu.edu.tw/admission/foreign/requirement/dept.list/id/38/fsemester/1/fdisplay/1?lang=en], [College of Life Science](https://youtu.be/mthyfB0OJR8)
 
 <br/>
 
@@ -78,8 +78,8 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 Master's programs in Taiwan are usually for two years. Our lab is associated with the following programs.
 
 #### Programs
-* [Ecology and Evolutionary Biology (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_master)
-* [Genome and Systems Biology (National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
+* [Ecology and Evolutionary Biology (EEB) (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_master)
+* [Genome and Systems Biology (GSB) (with National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
 * [Life Sciences (National Central University)](https://nculs.in.ncu.edu.tw/index.php/Index/index.html)
 * [Microbiology (Soochow University)](http://microbiology.scu.edu.tw/nexus/)
 
@@ -87,6 +87,9 @@ Master's programs in Taiwan are usually for two years. Our lab is associated wit
 * Stipend: ~500-690 USD/month (additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
 * Subsidized national health insurance
 * Eligibility for dormitory housing
+
+#### Application and additional information
+* National Taiwan University (GSB, EEB): [application (Office of International affairs)](http://oia.ntu.edu.tw/apply-to-ntu), (program requirements and admission quotas)[https://oiasystem.ntu.edu.tw/admission/foreign/requirement/dept.list/id/38/fsemester/1/fdisplay/1?lang=en], [College of Life Science](https://youtu.be/mthyfB0OJR8)
 
 <br/>
 
