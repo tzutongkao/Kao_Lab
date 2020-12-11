@@ -51,7 +51,7 @@ Currently we are actively looking for bioinformaticians. The ideal candidates sh
 As the national research institution, Academia Sinica offers PhD and master's programs in collaboration with major research universities in Taiwan. If you are interested in doing PhD research, please contact [Chuan Ku](mailto:chuanku@gate.sinica.edu.tw) first before submitting your online application.
 
 #### Programs
-* [Taiwan International Graduate Program (TIGP)](http://tigp.sinica.edu.tw/) (application deadline: February)
+* [Taiwan International Graduate Program (TIGP)](http://tigp.sinica.edu.tw/) (application deadline: January/February)
   * [Biodiversity](http://tigp-biodiv.biodiv.tw/)
   * [Molecular and Biological Agricultural Sciences (MBAS)](http://abrc.sinica.edu.tw/mbas/)
   * [Bioinformatics](https://tigpbp.iis.sinica.edu.tw/tigpbio/old/index.html)
