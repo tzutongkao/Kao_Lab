@@ -47,7 +47,6 @@ permalink: /pictures/equipment
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7902_GrowthChamber.jpeg" width="90%">
 </figure>
 
-<!---
 <h5>Thermal Cyclers (SensoQuest LabCycler)</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7882_LabCyclers.jpeg" width="90%">
@@ -57,7 +56,6 @@ permalink: /pictures/equipment
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7883_Multifuge.jpeg" width="90%">
 </figure>
---->
 
 
 <h5>Heraeus Fresco 21 Microcentrifuge (ThermoFisher)</h5>
