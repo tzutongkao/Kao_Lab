@@ -57,12 +57,6 @@ permalink: /pictures/equipment
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7883_Multifuge.jpeg" width="90%">
 </figure>
 
-
-<h5>Heraeus Fresco 21 Microcentrifuge (ThermoFisher)</h5>
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7892_Fresco.jpeg" width="90%">
-</figure>
-
 </div>
 
 
@@ -78,5 +72,9 @@ permalink: /pictures/equipment
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7899_Freezer_BSC_Hood.jpeg" width="90%">
 </figure>
 
+<h5>Heraeus Fresco 21 Microcentrifuge (ThermoFisher)</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7892_Fresco.jpeg" width="90%">
+</figure>
 
 </div>
