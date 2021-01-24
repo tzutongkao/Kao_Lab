@@ -13,6 +13,7 @@ permalink: /pictures/
 #### 2019
 * [Plant and Environmental Microbiology lunch party](#2019PEMparty)
 * [Year-end party](#2019YEP)
+* [Visit by James and Geraldine Van Etten](#2019JVE)
 * [Hot pot restaurant](#hot-pot-restaurant)
 * [Lab warming party](#lab-warming-party)
 * [Lab remodeling](#lab-remodeling) ([Before](#before), [During](#during) and [After](#after))
@@ -93,6 +94,51 @@ permalink: /pictures/
 {% endif %}
 
 <p> &nbsp; </p>
+
+
+
+
+
+### <a name="2019JVE"></a>Visit by James and Geraldine Van Etten
+<h5>13/Oct/2019–19/Oct/2019</h5>
+{% assign number_printed = 0 %}
+{% for pic in site.data.pictures_2019JVE %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/191014_191019_JimVisit/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd > 2 %}
+</div>
+{% endif %}
+
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
+
+
 
 
 
