@@ -101,6 +101,8 @@ permalink: /pictures/
 
 ### <a name="2019JVE"></a>Visit by James and Geraldine Van Etten
 <h5>13/Oct/2019–19/Oct/2019</h5>
+<h5>Our great pleasure to host their visit, together with Na-Sheng Lin (IPMB), Chu-Fang Lo and Han‐Ching Wang (NCKU), and Yau-Heiu Hsu (NCHU)</h5>
+
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_2019JVE %}
 
