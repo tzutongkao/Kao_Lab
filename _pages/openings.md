@@ -64,7 +64,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
   * [Ecology and Evolutionary Biology (EEB) (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_phd)
 
 #### Benefits
-* Stipend: ~1,180-1,720 USD/month
+* Stipend: ~1,200-1,750 USD/month
 * Subsidized national health insurance
 * Eligibility for dormitory housing
 
@@ -84,7 +84,7 @@ Master's programs in Taiwan are usually for two years. Our lab is associated wit
 * [Microbiology (Soochow University)](http://microbiology.scu.edu.tw/nexus/)
 
 #### Benefits
-* Stipend: ~500-690 USD/month (additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
+* Stipend: ~500-700 USD/month (additional, merit-based [scholarships](https://oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/scholarships-for-prospective-students) are available from the Taiwanese government or universities)
 * Subsidized national health insurance
 * Eligibility for dormitory housing
 
