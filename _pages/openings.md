@@ -54,7 +54,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 
 #### Programs
 * [Taiwan International Graduate Program (TIGP)](http://tigp.sinica.edu.tw/) (application deadline: January/February)
-  * [Biodiversity](http://tigp-biodiv.biodiv.tw/)([intro](https://www.youtube.com/watch?v=rAPo5M88FXA&ab_channel=BRCAS))
+  * [Biodiversity](http://tigp-biodiv.biodiv.tw/) ([intro](https://www.youtube.com/watch?v=rAPo5M88FXA&ab_channel=BRCAS))
   * [Molecular and Biological Agricultural Sciences (MBAS)](http://abrc.sinica.edu.tw/mbas/)
   * [Bioinformatics](https://tigpbp.iis.sinica.edu.tw/tigpbio/old/index.html)
 * Joint programs between IPMB/AS and universities
