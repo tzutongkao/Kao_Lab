@@ -33,7 +33,8 @@
 
 - name: Iris Wu
   photo: IrisWu.jpg
-  info: Research intern (2021.01–2021.05)
+  duration: 2021.01–2021.05
+  info: Research intern
   email: iriswu26@berkeley.edu
   number_educ: 1
   education1: B.S., Molecular Environmental Biology, University of California, Berkley, USA (2017.08–)
