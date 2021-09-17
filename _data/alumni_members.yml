@@ -49,12 +49,11 @@
 
 - name: Tsu-Wang Sun (孫祖望)
   photo: TsuWang.jpg
+  duration: 2019.07–2021.02
   info: M.Sc. student (2020.09–2021.02); undergrad researcher (2019.07–2020.02)
   email: stsuwang@smail.nchu.edu.tw
-  number_educ: 3
-  education1: B.Sc., Plant Pathology, National Chung Hsing University
-  education2: Undergraduate research grant from Ministry of Science and Technology (2019.07–2020.02)
-  education3: M.Sc., Genome and Systems Biology, National Taiwan University (2020.09–)
+  number_educ: 1
+  education1: B.Sc., Plant Pathology, National Chung Hsing University; Undergraduate research grant from Ministry of Science and Technology (2019.07–2020.02); M.Sc., Genome and Systems Biology, National Taiwan University (2020.09–)
 
 # - name: Jing-Hsiang Chang (張景翔)
 #   photo: JingHsiang.jpg
