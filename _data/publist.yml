@@ -1,11 +1,11 @@
 - title: "Unraveling gene content variation across eukaryotic giant viruses based on network analyses and host associations"
-  image:
-  description:
+  image: VirusEvol2021.Figure_2.website.png
+  description: Gene sharing patterns within and across giant virus families often contradict with the core-gene phylogeny, but they can be partially explained by associations with different eukaryotic hosts
   authors: Tsu-Wang Sun, Chuan Ku
   link:
     url: https://doi.org/10.1093/ve/veab081
     display: Virus Evolution (2021)
-  highlight: 
+  highlight: 1
   news1:
 
 - title: "Giant virus-eukaryote interactions as ecological and evolutionary driving forces"
