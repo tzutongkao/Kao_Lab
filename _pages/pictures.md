@@ -6,6 +6,9 @@ permalink: /pictures/
 ---
 
 # Pictures
+#### 2021
+* [Lab gathering](#2021OctLunch)
+
 #### 2020
 * [Genome and Systems Biology retreat and annual contest](#2020GSB)
 * [Lab gathering](#2020SepDinner)
@@ -21,6 +24,15 @@ permalink: /pictures/
 #### [Lab equipment]({{ site.url }}{{ site.baseurl }}/pictures/equipment)
 
 <br/>
+
+
+### <a name="2021OctLunch"></a>2021 Lab gathering
+<h5>05/Oct/2021</h5>
+<h5>Hooters restaurant</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/211005/IMG_2585.jpg" width="70%">
+</figure>
+
 
 ### <a name="2020GSB"></a>2020 Genome and Systems Biology Degree Program retreat and annual contest
 <h5>30/Nov/2020</h5>
