@@ -30,7 +30,7 @@ permalink: /pictures/
 <h5>05/Oct/2021</h5>
 <h5>Hooters restaurant</h5>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/211005/IMG_2585.jpg" width="70%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/211005/IMG_2585.jpg" width="50%">
 </figure>
 
 
