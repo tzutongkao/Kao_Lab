@@ -28,8 +28,7 @@
   info: Visiting master's student
   email: libraries.area@gmail.com
   number_educ: 2
-  education1: M.Sc., Computer Science, University of Lisbon, Portugal (2011-2015)
-  education2: M.Sc., Bioinformatics, University of Lisbon, Portugal (2018-)
+  education1: M.Sc., Computer Science, University of Lisbon, Portugal (2011-2015); M.Sc., Bioinformatics, University of Lisbon, Portugal (2018-)
 
 - name: Iris Wu
   photo: IrisWu.jpg
@@ -61,8 +60,7 @@
   info: Research associate
   email: as0210443@gate.sinica.edu.tw
   number_educ: 2
-  education1: B.Eng., Environmental Engineering, South-Eastern Finland University of Applied Sciences, Finland (2013-2017)
-  education2: M.Sc., Ecology and Evolutionary Biology, University of Jyväskylä, Finland (2018-2021)
+  education1: B.Eng., Environmental Engineering, South-Eastern Finland University of Applied Sciences, Finland (2013-2017); M.Sc., Ecology and Evolutionary Biology, University of Jyväskylä, Finland (2018-2021)
 
 # - name: Jing-Hsiang Chang (張景翔)
 #   photo: JingHsiang.jpg
