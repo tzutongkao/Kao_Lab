@@ -29,7 +29,7 @@ Postdoc positions can be funded by the following options. All applicants will be
 * Core funding or grants
 
 #### Benefits
-* Salary: ~29,000-41,500 USD/year
+* Salary: ~32,000-45,000 USD/year
 * Subsidized national health insurance, work insurance, and pension scheme
 * Relocation expenses, family allowance or benefits, and a small research grant may be available depending on the fellowship
 
@@ -42,7 +42,7 @@ From time to time, we have long-term core- or project-funded positions for peopl
 Currently we are actively looking for bioinformaticians. The ideal candidates should have experience in analyzing sequencing and omics data in the fields of evolutionary biology, genome regulation and/or ecology.
 
 #### Benefits
-* Salary: ~21,000-41,500 USD/year
+* Salary: ~21,000-45,000 USD/year
 * Subsidized national health insurance, work insurance, and pension scheme
 * Other benefits of IPMB employees
 
