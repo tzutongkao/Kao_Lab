@@ -38,6 +38,12 @@ permalink: /pictures/equipment
 </figure>
 </div>
 
+<div id="newsid" class="col-sm-6" >
+<h5>Large-Particle Analyzer/Sorter (Union Biometrica COPAS Vision)</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/P_20211222_155850_COPASVision.jpg" width="90%">
+</figure>
+</div>
 
 ### <a name="R222"></a>R222 Lab
 <div id="homeid" class="col-sm-6">
