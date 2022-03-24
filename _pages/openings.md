@@ -60,7 +60,6 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 * Joint programs between IPMB/AS and universities
   * [Genome and Systems Biology (GSB) (with National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
   * [Plant Biology (PB) (with National Taiwan University)](https://www.ntuipb.info/home-eng)
-  * [Marine Biotechnology (with National Taiwan Ocean University)](http://www.ddpmb.ntou.edu.tw/bin/home.php)
   * Microbial Genomics (with National Chung Hsing University)
 * Other programs
   * [Ecology and Evolutionary Biology (EEB) (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_phd)
