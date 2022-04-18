@@ -34,7 +34,7 @@ Our lab belongs to the [Institute of Plant and Microbial Biology](https://ipmb.s
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/20220418_R220_group_2.jpg" alt="Slide 1" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/190917_1.jpg" alt="Slide 2" />
         </div>
         <div class="item">
