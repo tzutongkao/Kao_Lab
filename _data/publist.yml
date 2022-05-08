@@ -39,13 +39,13 @@
   news1:
 
 - title: "A single-cell view on alga-virus interactions reveals sequential transcriptional programs and infection states"
-  image:
-  description:
+  image: InfGradient.png
+  description: Dissecting giant virus infection one cell at a time
   authors: Chuan Ku, Uri Sheyn, Arnau Sebé-Pedrós, Shifra Ben-Dor, Daniella Schatz, Amos Tanay, Shilo Rosenwasser, Assaf Vardi
   link:
     url: https://advances.sciencemag.org/content/6/21/eaba4137
     display:  Science Advances (2020)
-  highlight:
+  highlight: 1
   news1:
 
 - title: "Did giant and large dsDNA viruses originate before their eukaryotic hosts?"
@@ -69,13 +69,13 @@
   news1:
 
 - title: "Tracking infection dynamics at single-cell level reveals highly-resolved expression programs of a large virus infecting algal blooms"
-  image: InfGradient.png
-  description: Dissecting giant virus infection one cell at a time
+  image:
+  description:
   authors: Chuan Ku, Uri Sheyn, Arnau Sebé-Pedrós, Shifra Ben-Dor, Daniella Schatz, Amos Tanay, Shilo Rosenwasser, Assaf Vardi
   link:
     url: https://www.biorxiv.org/content/10.1101/757542v1
     display:  bioRxiv (2019)
-  highlight: 1
+  highlight:
   news1:
 
 - title: "Complete genome sequence of <i>Sulfitobacter</i> sp. strain D7, a virulent bacterium isolated from an Emiliania huxleyi algal bloom in the North Atlantic"
