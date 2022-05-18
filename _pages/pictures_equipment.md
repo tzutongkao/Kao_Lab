@@ -5,11 +5,11 @@ excerpt: "Ku Lab -- Gallery"
 permalink: /pictures/equipment
 ---
 
-# Lab equipment
+# Equipment at IPMB and our lab
 
 ### <a name="CellBiolLM"></a>[IPMB Cell Biology Core Lab: light microscopy](https://ipmb.sinica.edu.tw/en/core/Live-Cell-Imaging-Core-Lab)
 <div id="homeid" class="col-sm-6">
-<h5>Fluorescence Microscope (Zeiss Axio Imager Z1)</h5>
+<h5>Fluorescence Microscope (ZEISS AxioImager.Z1)</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7876_Z1.jpeg" width="90%">
 </figure>
@@ -60,6 +60,11 @@ permalink: /pictures/equipment
 <h5>Heraeus Multifuge X3R Centrifuge (ThermoFisher)</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7883_Multifuge.jpeg" width="90%">
+</figure>
+
+<h5>Fluorescence Microscrope (ZEISS Axioscope.A1)</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/P_20220518_114529_ZeissAxiosope.A1.jpg" width="90%">
 </figure>
 
 </div>
