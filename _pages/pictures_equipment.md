@@ -24,7 +24,7 @@ permalink: /pictures/equipment
 
 <h5>Confocal Microscope (ZEISS LSM 880)</h5>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/2022-05-18.ZeissLSM880.jpeg" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/2022-05-18.ZeissLSM880.jpeg" width="43%">
 </figure>
 
 
