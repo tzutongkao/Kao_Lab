@@ -13,6 +13,11 @@ permalink: /pictures/equipment
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/equipment/IMG_7876_Z1.jpeg" width="90%">
 </figure>
+
+<h5>Confocal Microscope (ZEISS LSM 880)</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/equipment/2022-05-18.ZeissLSM880.jpeg" width="90%">
+</figure>
 </div>
 
 <div id="newsid" class="col-sm-6" >
