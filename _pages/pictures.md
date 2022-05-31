@@ -26,6 +26,24 @@ permalink: /pictures/
 <br/>
 
 
+
+### <a name="2022MayLunch"></a>2022 Lab gathering (tea restaurant, Nankang, Taipei)
+<h5>31/May/2022</h5>
+
+<div id="homeid" class="col-sm-6">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/220531/2022-05-31_14.08.01.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-6" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/220531/2022-05-31_15.41.38.jpeg" width="100%">
+</figure>
+</div>
+
+
+
 ### <a name="2021OctLunch"></a>2021 Lab gathering
 <h5>05/Oct/2021</h5>
 <h5>Hooters restaurant</h5>
