@@ -6,6 +6,9 @@ permalink: /pictures/
 ---
 
 # Pictures
+#### 2022
+* [Lab gathering](#2022MayLunch)
+
 #### 2021
 * [Lab gathering](#2021OctLunch)
 
