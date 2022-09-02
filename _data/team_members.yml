@@ -52,6 +52,21 @@
   number_educ: 1
   education1: B.Sc., Biochemistry, Imperial College London, UK
 
+- name: Hsin-Tung Lai
+  photo: HsinTung.jpg
+  info: M.Sc. student (2022.08–); undergrad researcher (2022.02–2022.07)
+  email: b10613004@ntu.edu.tw
+  number_educ: 2
+  education1: B.Sc., Life Science, National Taiwan University, Taiwan
+  education2: B.Sc., Ecology and Evolutionary Biology, National Taiwan University, Taiwan (2022.08–)
+
+- name: Ho-Lin Chung
+  photo: HoLin.jpg
+  info: Undergrad summer research intern (2022.07–)
+  email: b10613004@ntu.edu.tw
+  number_educ: 1
+  education1: B.Sc., Plant Pathology and Microbiology, National Taiwan University, Taiwan (2021.08–)
+
 - name: Sheng Kao
   photo: Sheng.jpg
   info: Research associate (2021.10–)
