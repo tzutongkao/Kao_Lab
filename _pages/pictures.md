@@ -30,6 +30,17 @@ permalink: /pictures/
 
 
 
+
+### <a name="2022IPMBsummer"></a>2022 IPMB Summer Internship Program and contest
+<h5>31/Aug/2022</h5>
+<h5>Second prize for Ho-Lin</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/220831/HLC_IPMB2022summerinternContest.jpeg" width="50%">
+</figure>
+
+
+
+
 ### <a name="2022MayLunch"></a>2022 Lab gathering (tea restaurant, Nankang, Taipei)
 <h5>31/May/2022</h5>
 
