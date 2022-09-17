@@ -7,8 +7,9 @@ permalink: /pictures/
 
 # Pictures
 #### 2022
+* [Lab gathering (September)](#2022SepLunch)
 * [IPMB Summer Internship](#2022IPMBsummer)
-* [Lab gathering](#2022MayLunch)
+* [Lab gathering (May)](#2022MayLunch)
 
 #### 2021
 * [Lab gathering](#2021OctLunch)
@@ -30,6 +31,16 @@ permalink: /pictures/
 <br/>
 
 
+
+
+### <a name="2022SepLunch"></a>2022 Lab gathering (grill-hotpot restaurant, Nankang, Taipei)
+<h5>14/Sep/2022</h5>
+
+<div id="homeid" class="col-sm-6">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/220914/2022-09-14_10.45.50.jpeg" width="100%">
+</figure>
+</div>
 
 
 ### <a name="2022IPMBsummer"></a>2022 IPMB Summer Internship Program and contest
