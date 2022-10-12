@@ -7,6 +7,7 @@ permalink: /pictures/
 
 # Pictures
 #### 2022
+* [2022 Meeting of the Taiwanese Society of Plant Biologists](#2022TSPB)
 * [Lab gathering (September)](#2022SepLunch)
 * [IPMB Summer Internship](#2022IPMBsummer)
 * [Lab gathering (May)](#2022MayLunch)
@@ -30,6 +31,22 @@ permalink: /pictures/
 
 <br/>
 
+
+
+### <a name="2022TSPB"></a>2022 Meeting of the Taiwanese Society of Plant Biologists (Nantou, Taiwan)
+<h5>01/Oct/2022</h5>
+
+<div id="homeid" class="col-sm-6">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221001/IMG_4366.TSPB2022.jpg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-6" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221001/P_20221012_150000.jpg" width="100%">
+</figure>
+</div>
 
 
 
