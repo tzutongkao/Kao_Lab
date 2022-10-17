@@ -10,7 +10,7 @@ permalink: /publications/
 # Publications
 
 <h4>[Google Scholar](https://scholar.google.com/citations?user=1BDzxq8AAAAJ&hl=en)<br/></h4>
-<h4>[Publons](https://publons.com/author/1500155/chuan-ku#profile)<br/></h4>
+<h4>[Web of Science](https://www.webofscience.com/wos/author/record/1835861)<br/></h4>
 <br/>
 
 
