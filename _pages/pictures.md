@@ -50,7 +50,6 @@ permalink: /pictures/
 </div>
 
 
-
 ### <a name="2022SepLunch"></a>2022 Lab gathering (grill-hotpot restaurant, Nankang, Taipei)
 <h5>14/Sep/2022</h5>
 <figure>
