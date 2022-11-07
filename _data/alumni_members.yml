@@ -70,6 +70,22 @@
   number_educ: 1
   education1: B.Sc., Biology, University of the Philippines Diliman, Philippines; M.Sc., Microbiology, University of the Philippines Diliman, Philippines
 
+- name: Ho-Lin Chung
+  photo: HoLin.jpg
+  duration: 2022.07–2022.09
+  info: IPMB undergrad summer research intern
+  email: b10613004@ntu.edu.tw
+  number_educ: 1
+  education1: B.Sc., Plant Pathology and Microbiology, National Taiwan University, Taiwan (2021.08–)
+
+- name: Siwat Chang
+  photo: Siwat.jpg
+  duration: 2020.09–2022.08
+  info: Research associate (2020.09–2022.08); research intern (2020.02–2020.04)
+  email: siwat.chang123@gmail.com
+  number_educ: 1
+  education1: B.Sc., Biochemistry, Imperial College London, UK
+
 # - name: Jing-Hsiang Chang (張景翔)
 #   photo: JingHsiang.jpg
 #   info: Research intern (2020.07–)

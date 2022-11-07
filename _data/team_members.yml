@@ -29,6 +29,23 @@
   education3: Research assistant, Taiwan Forestry Research Institute, Taiwan
   education4: Ph.D., Biology, Duke University, USA (with <a href="https://sites.duke.edu/pryerlab/">Kathleen Pryer</a>)
 
+- name: Maxime Allioux (馬克辛 阿立兀)
+  photo: Maxime.jpg
+  info: Postdoctoral researcher (2022.10–)
+  email: allioux@gate.sinica.edu.tw
+  number_educ: 4
+  education1: B.Sc., Biology, Université Paris-Sud, France
+  education2: M.Sc., Biology, Université de Versailles Saint-Quentin-en-Yvelines, France
+  education3: Ph.D., Marine Microbiology, Université de Bretagne Occidentale, France (with <a href="https://www.univ-brest.fr/menu/recherche-innovation/pages-chercheurs/ALAIN-Karine/">Karine Alain</a>)
+
+- name: Yu-chi Liu (劉昱志)
+  photo: YuChi.jpg
+  info: Research associate (2022.11–)
+  email: liuyuchi@gate.sinica.edu.tw
+  number_educ: 2
+  education1: B.Sc., Biological Engineering, Tatung Institute of Technology, Taiwan
+  education2: M.Sc., Life Science, National Central University, Taiwan
+  
 - name: Chia-Ling Yang (楊佳陵)
   photo: ChiaLing.jpg
   info: Research associate (2019.04–)
@@ -45,13 +62,6 @@
   education1: B.Sc., Bioscience and Biotechnology, National Taiwan Ocean University, Taiwan
   education2: M.Sc., Oceanography, National Taiwan University, Taiwan (with <a href="http://biodiv.sinica.edu.tw/~sltang/index.php">Sen-Lin Tang</a>)
 
-- name: Siwat Chang
-  photo: Siwat.jpg
-  info: Research associate (2020.09–); research intern (2020.02–2020.04)
-  email: siwat.chang123@gmail.com
-  number_educ: 1
-  education1: B.Sc., Biochemistry, Imperial College London, UK
-
 - name: Hsin-Tung Lai
   photo: HsinTung.jpg
   info: M.Sc. student (2022.08–); undergrad researcher (2022.02–2022.07)
@@ -59,13 +69,6 @@
   number_educ: 2
   education1: B.Sc., Life Science, National Taiwan University, Taiwan
   education2: B.Sc., Ecology and Evolutionary Biology, National Taiwan University, Taiwan (2022.08–)
-
-- name: Ho-Lin Chung
-  photo: HoLin.jpg
-  info: Undergrad summer research intern (2022.07–)
-  email: b10613004@ntu.edu.tw
-  number_educ: 1
-  education1: B.Sc., Plant Pathology and Microbiology, National Taiwan University, Taiwan (2021.08–)
 
 - name: Sheng Kao
   photo: Sheng.jpg

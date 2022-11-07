@@ -7,6 +7,7 @@ permalink: /pictures/
 
 # Pictures
 #### 2022
+<!-- * [Visit to RIKEN, Japan](#2022CSRS) -->
 * [2022 Meeting of the Taiwanese Society of Plant Biologists](#2022TSPB)
 * [Lab gathering (September)](#2022SepLunch)
 * [IPMB Summer Internship](#2022IPMBsummer)
