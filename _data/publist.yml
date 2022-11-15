@@ -1,3 +1,14 @@
+
+- title: "Complete genome sequence of <i>Phaeobacter</i> sp. strain G2 isolated from lab culture of the calcifying alga <i>Emiliania huxleyi</i>"
+  image:
+  description:
+  authors: Siwat Chang, Tzu-Haw Wang, Ming-Wei Lai, Chuan Ku
+  link:
+    url:
+    display: Microbiology Resource Announcements (2022)
+  highlight:
+  news1:
+
 - title: "Daily turnover of active giant virus infection during algal blooms revealed by single-cell transcriptomics"
   image:
   description:
@@ -5,7 +16,7 @@
   link:
     url: https://www.biorxiv.org/content/10.1101/2022.10.15.512338v1
     display: bioRxiv (2022)
-  highlight: 
+  highlight:
   news1:
 
 - title: "Rampant nuclear-mitochondrial-plastid phylogenomic discordance in globally distributed calcifying microalgae"
