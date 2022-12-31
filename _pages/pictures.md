@@ -37,7 +37,7 @@ permalink: /pictures/
 
 ### <a name="2022FAOS"></a>Young Scholars’ Creativity Award Ceremony (TWTC International Trade Building, Taipei, Taiwan)
 <h5>30/Dec/2022</h5>
-
+<h5>With Yuan Tseh Lee (Nobel laureate)</h5>
 <div id="homeid" class="col-sm-6">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221230/P_20221230_144550.jpg" width="100%">
@@ -53,6 +53,7 @@ permalink: /pictures/
 
 ### <a name="2022CSRS"></a>Visit to RIKEN (Yokohama, Japan)
 <h5>01/Nov/2022</h5>
+<h5>With Yuki Nakamura and his team</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/221101_RIKEN/image1.jpeg" width="50%">
 </figure>
