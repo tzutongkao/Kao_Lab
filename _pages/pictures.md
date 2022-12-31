@@ -46,7 +46,7 @@ permalink: /pictures/
 
 <div id="newsid" class="col-sm-6" >
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221230/P_20221230_144020jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221230/P_20221230_144020.jpg" width="100%">
 </figure>
 </div>
 
