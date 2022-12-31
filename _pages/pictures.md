@@ -7,7 +7,8 @@ permalink: /pictures/
 
 # Pictures
 #### 2022
-<!-- * [Visit to RIKEN, Japan](#2022CSRS) -->
+* [Ceremony of Young Scholars’ Creativity Award, Foundation for the Advancement of Outstanding Scholarship](#2022FAOS)
+* [Visit to RIKEN, Japan](#2022CSRS)
 * [2022 Meeting of the Taiwanese Society of Plant Biologists](#2022TSPB)
 * [Lab gathering (September)](#2022SepLunch)
 * [IPMB Summer Internship](#2022IPMBsummer)
@@ -33,6 +34,28 @@ permalink: /pictures/
 <br/>
 
 
+
+### <a name="2022FAOS"></a>Young Scholars’ Creativity Award Ceremony (TWTC International Trade Building, Taipei, Taiwan)
+<h5>30/Dec/2022</h5>
+
+<div id="homeid" class="col-sm-6">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221230/P_20221230_144550.jpg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-6" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221230/P_20221230_144020jpg" width="100%">
+</figure>
+</div>
+
+
+### <a name="2022CSRS"></a>Visit to RIKEN (Yokohama, Japan)
+<h5>01/Nov/2022</h5>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/221101_RIKEN/image1.jpeg" width="50%">
+</figure>
 
 ### <a name="2022TSPB"></a>2022 Meeting of the Taiwanese Society of Plant Biologists (Nantou, Taiwan)
 <h5>01/Oct/2022</h5>
