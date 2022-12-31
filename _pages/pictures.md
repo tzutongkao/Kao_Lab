@@ -7,7 +7,7 @@ permalink: /pictures/
 
 # Pictures
 #### 2022
-* [Ceremony of Young Scholars’ Creativity Award, Foundation for the Advancement of Outstanding Scholarship](#2022FAOS)
+* [Ceremony of Young Scholars’ Creativity Award from FAOS](#2022FAOS)
 * [Visit to RIKEN, Japan](#2022CSRS)
 * [2022 Meeting of the Taiwanese Society of Plant Biologists](#2022TSPB)
 * [Lab gathering (September)](#2022SepLunch)
@@ -35,9 +35,9 @@ permalink: /pictures/
 
 
 
-### <a name="2022FAOS"></a>Young Scholars’ Creativity Award Ceremony (TWTC International Trade Building, Taipei, Taiwan)
+### <a name="2022FAOS"></a>Young Scholars’ Creativity Award Ceremony, Foundation for the Advancement of Outstanding Scholarship (TWTC International Trade Building, Taipei, Taiwan)
 <h5>30/Dec/2022</h5>
-<h5>With Yuan Tseh Lee (Nobel laureate)</h5>
+<h5>With Yuan Tseh Lee (Nobel laureate in chemistry)</h5>
 <div id="homeid" class="col-sm-6">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221230/P_20221230_144550.jpg" width="100%">
@@ -45,11 +45,11 @@ permalink: /pictures/
 </div>
 
 <div id="newsid" class="col-sm-6" >
+<h5>With Ming-Jung Liu and Cheng-Ruei Lee</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221230/P_20221230_144020.jpg" width="100%">
 </figure>
 </div>
-
 
 ### <a name="2022CSRS"></a>Visit to RIKEN (Yokohama, Japan)
 <h5>01/Nov/2022</h5>
@@ -62,6 +62,7 @@ permalink: /pictures/
 <h5>01/Oct/2022</h5>
 
 <div id="homeid" class="col-sm-6">
+<h5>With Su-Chiung Fang</h5>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221001/IMG_4366.TSPB2022.jpg" width="100%">
 </figure>
