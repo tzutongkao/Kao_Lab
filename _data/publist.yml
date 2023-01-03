@@ -1,3 +1,12 @@
+- title: "Single-cell transcriptomics unveils xylem cell development and evolution"
+  image:
+  description:
+  authors: Chia-Chun Tung, Shang-Che Kuo, Chia-Ling Yang, Jhong-He Yu, Chia-En Huang, Pin-Chien Liou, Ying-Hsuan Sun, Peng Shuai, Jung-Chen Su, Chuan Ku, Ying-Chung Jimmy Lin
+  link:
+    url:
+    display: Genome Biology (accepted)
+  highlight:
+  news1:
 
 - title: "Complete genome sequence of <i>Phaeobacter</i> sp. strain G2 isolated from lab culture of the calcifying alga <i>Emiliania huxleyi</i>"
   image:
@@ -27,6 +36,16 @@
     url: https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18219
     display: New Phytologist (2022)
   highlight: 1
+  news1:
+
+- title: "Single-cell transcriptomics unveils xylem cell development and evolution"
+  image:
+  description:
+  authors: Chia-Chun Tung, Shang-Che Kuo, Chia-Ling Yang, Chia-En Huang, Jhong-He Yu, Ying-Hsuan Sun, Peng Shuai, Jung-Chen Su, Chuan Ku, Ying-Chung Jimmy Lin
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2021.10.16.464627v1
+    display: bioRxiv (2021)
+  highlight:
   news1:
 
 - title: "Unraveling gene content variation across eukaryotic giant viruses based on network analyses and host associations"
