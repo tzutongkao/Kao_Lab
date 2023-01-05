@@ -17,7 +17,7 @@ English is the working language in our lab and institute. Mandarin skills are no
 <br/>
 
 <h3>Postdoc</h3>
-Postdoc positions can be funded by the following options. All applicants will be encouraged to apply for a competitive fellowship.
+Postdoc positions can be funded by the following options. All applicants will be encouraged to apply for a competitive fellowship. Shortlisted applicants may be invited to an onsite interview with funded travel and accommodation.
 
 #### Funding
 * [EMBO Postdoctoral Fellowship](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships)
@@ -25,13 +25,14 @@ Postdoc positions can be funded by the following options. All applicants will be
 * [Academia Sinica Postdoctoral Fellowship (Regular or Distinguished)](https://daais.sinica.edu.tw/pages/815)
 * [HFSP Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
   * Eligibility: People who are nationals of HFSP member countries
-* Ministry of Science and Technology (MOST, Taiwan) Postdoctoral Fellowship
+* National Science and Technology Council (NSTC, Taiwan) Postdoctoral Fellowship
 * Core funding or grants
 
 #### Benefits
 * Salary: ~32,000-45,000 USD/year
 * Subsidized national health insurance, work insurance, and pension scheme
 * Relocation expenses, family allowance or benefits, and a small research grant may be available depending on the fellowship
+* Funding for attending international conferences, workshops, or courses
 
 
 <br/>
@@ -50,7 +51,7 @@ Currently we are actively looking for bioinformaticians. The ideal candidates sh
 
 
 ### PhD
-As the national research institution, Academia Sinica offers PhD and master's programs in collaboration with major research universities in Taiwan. If you are interested in doing PhD research, please contact [Chuan Ku](mailto:chuanku@gate.sinica.edu.tw) first before submitting your online application.
+As the national research institution, Academia Sinica offers PhD and master's programs in collaboration with major research universities in Taiwan. If you are interested in doing PhD research, please contact [Chuan Ku](mailto:chuanku@gate.sinica.edu.tw) first before submitting your online application. Shortlisted applicants may be invited to an onsite interview with funded travel and accommodation.
 
 #### Programs
 * [Taiwan International Graduate Program (TIGP)](http://tigp.sinica.edu.tw/) (application deadline: January/February)
@@ -68,6 +69,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 * Stipend: ~1,200-1,800 USD/month
 * Subsidized national health insurance
 * Eligibility for dormitory housing
+* Funding for attending international conferences, workshops, or courses
 
 #### Application and additional information
 * TIGP: [application](https://tigp.apps.sinica.edu.tw/index.php)
