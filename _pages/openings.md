@@ -69,7 +69,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 * Stipend: ~1,200-1,800 USD/month
 * Subsidized national health insurance
 * Eligibility for dormitory housing
-* Funding for attending international conferences, workshops, or courses
+* Funding for attending international conferences, workshops, or courses (incl. EMBO-funded PhD courses)
 
 #### Application and additional information
 * TIGP: [application](https://tigp.apps.sinica.edu.tw/index.php)
@@ -115,12 +115,12 @@ There are quite some programs available for short-term research stays in our lab
   * Eligibility: undergraduate students enrolled at a German university
   * Benefits: travel costs, insurance, stipend, participation in an alumni meeting
   * Application deadline: mid-December
-* [MOST-DAAD Taiwan Summer Institute Program](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?status=3&target=103&subjectGrps=&intention=&daad=&q=&page=5&detail=50745820)
+* [NSTC-DAAD Taiwan Summer Institute Program](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?status=3&target=103&subjectGrps=&intention=&daad=&q=&page=5&detail=50745820)
   * Duration: 2 months (August and September)
   * Eligibility: undergraduate/master's/PhD students or graduates who are German nationals or enrolled at a German university
   * Benefits: travel costs, insurance, stipend (~900 EUR), participation in an alumni meeting
   * Application deadline: mid-February
-* MOST Undergraduate Research Grant (科技部大專學生研究計畫)
+* NSTC Undergraduate Research Grant (國科會大專學生研究計畫)
     * Duration: 8 months (July-February)
     * Eligibility: undergraduate students enrolled at a Taiwanese university
     * Benefits: stipend (~200 USD/month)
