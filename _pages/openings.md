@@ -17,7 +17,7 @@ English is the working language in our lab and institute. Mandarin skills are no
 <br/>
 
 <h3>Postdoc</h3>
-Postdoc positions can be funded by the following options. All applicants will be encouraged to apply for a competitive fellowship. Shortlisted applicants may be invited to an onsite interview with funded travel and accommodation.
+Postdoc positions can be funded by the options below. All applicants will be encouraged to apply for a competitive fellowship. Shortlisted applicants may be invited to an onsite interview with funded travel and accommodation.
 
 #### Funding
 * [EMBO Postdoctoral Fellowship](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships)
