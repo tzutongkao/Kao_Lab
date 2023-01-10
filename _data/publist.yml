@@ -5,7 +5,7 @@
   link:
     url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02845-1
     display: Genome Biology (2023)
-  highlight:
+  highlight: 1
   news1:
 
 - title: "Complete genome sequence of <i>Phaeobacter</i> sp. strain G2 isolated from lab culture of the calcifying alga <i>Emiliania huxleyi</i>"
