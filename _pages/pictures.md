@@ -6,6 +6,9 @@ permalink: /pictures/
 ---
 
 # Pictures
+#### 2023
+* [MiTalk 7 Young Scientist Meeting](#2023Mitalk)
+
 #### 2022
 * [Ceremony of Young Scholars’ Creativity Award from FAOS](#2022FAOS)
 * [Visit to RIKEN, Japan](#2022CSRS)
@@ -34,6 +37,26 @@ permalink: /pictures/
 <br/>
 
 
+### <a name="2023Mitalk"></a>2023 MiTalk 7 Young Scientist Meeting, Foundation for the Advancement of Outstanding Scholarship (TWTC International Trade Building, Taipei, Taiwan)
+<h5>13/Jan/2023</h5>
+<h5>Second place for Hsin-Tung in the flash talk competition</h5>
+<div id="homeid" class="col-sm-6">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/230113/HTL_Mitalk7.1.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-6" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/230113/HTL_Mitalk7.2.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-12" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/230113_Mitalk/GroupPhoto_Mitalk7.jpeg" width="100%">
+</figure>
+</div>
 
 ### <a name="2022FAOS"></a>Young Scholars’ Creativity Award Ceremony, Foundation for the Advancement of Outstanding Scholarship (TWTC International Trade Building, Taipei, Taiwan)
 <h5>30/Dec/2022</h5>
