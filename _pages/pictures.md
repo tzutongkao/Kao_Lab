@@ -13,6 +13,7 @@ permalink: /pictures/
 * [Ceremony of Young Scholars’ Creativity Award from FAOS](#2022FAOS)
 * [Visit to RIKEN, Japan](#2022CSRS)
 * [2022 Meeting of the Taiwanese Society of Plant Biologists](#2022TSPB)
+* [Field trip in Hualien](#2022Hualien)
 * [Lab gathering (September)](#2022SepLunch)
 * [IPMB Summer Internship](#2022IPMBsummer)
 * [Lab gathering (May)](#2022MayLunch)
@@ -94,6 +95,28 @@ permalink: /pictures/
 <div id="newsid" class="col-sm-6" >
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/221001/P_20221012_150000.jpg" width="50%">
+</figure>
+</div>
+
+
+### <a name="2022Hualien"></a>Field trip to Hualien, Taiwan
+<h5>18/Sep/2022</h5>
+<h5>Collecting water samples from Hsiukuluan River and Pacific Ocean</h5>
+<div id="homeid" class="col-sm-3">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/220918_Hualien/2022Hualien.1.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-3" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/220918_Hualien/2022Hualien.2.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-6" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/220918_Hualien/2022Hualien.3.jpeg" width="100%">
 </figure>
 </div>
 
