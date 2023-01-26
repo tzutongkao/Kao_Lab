@@ -40,7 +40,7 @@ permalink: /pictures/
 
 
 ### <a name="2022YEP"></a>Joint lab meeting with Ying-Chung Jimmy Lin lab from Department of Life Science, National Taiwan University
-<h5>30/Dec/2022</h5>
+<h5>17/Jan/2023</h5>
 <div id="homeid" class="col-sm-6">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/230117_JointLabMeeting/YCJLlab.1.jpeg" width="100%">
