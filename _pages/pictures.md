@@ -7,6 +7,7 @@ permalink: /pictures/
 
 # Pictures
 #### 2023
+* [Joint lab meeting with Ying-Chung Jimmy Lin lab](#2022YEP)
 * [MiTalk 7 Young Scientist Meeting](#2023Mitalk)
 
 #### 2022
@@ -36,6 +37,21 @@ permalink: /pictures/
 #### [Lab equipment]({{ site.url }}{{ site.baseurl }}/pictures/equipment)
 
 <br/>
+
+
+### <a name="2022YEP"></a>Joint lab meeting with Ying-Chung Jimmy Lin lab from Department of Life Science, National Taiwan University
+<h5>30/Dec/2022</h5>
+<div id="homeid" class="col-sm-6">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/230117_JointLabMeeting/YCJLlab.1.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-6" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/230117_JointLabMeeting/YCJLlab.2.jpeg" width="100%">
+</figure>
+</div>
 
 
 ### <a name="2023Mitalk"></a>2023 MiTalk 7 Young Scientist Meeting, Foundation for the Advancement of Outstanding Scholarship (TWTC International Trade Building, Taipei, Taiwan)
