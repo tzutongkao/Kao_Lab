@@ -86,9 +86,10 @@
   number_educ: 1
   education1: B.Sc., Biochemistry, Imperial College London, UK
 
-# - name: Jing-Hsiang Chang (張景翔)
-#   photo: JingHsiang.jpg
-#   info: Research intern (2020.07–)
-#   email: lavouver96@gmail.com
-#   number_educ: 1
-#   education1: B.Sc., Animal Science and Technology, National Taiwan University (2016.08–)
+- name: Sheng Kao
+  photo: Sheng.jpg
+  duration: 2021.10–2022.07
+  info: Research associate
+  email: sheng.kao@oberlin.edu
+  number_educ: 1
+  education1: B.A., Biology with Computer Science minor, Oberlin College, USA
