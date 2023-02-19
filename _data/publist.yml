@@ -3,8 +3,8 @@
   description:
   authors: Sheng Kao, Chi-Fei Kao, Wen Chang, Chuan Ku
   link:
-    url: https://www.researchgate.net/publication/367286701_Widespread_distribution_and_evolution_of_poxviral_entry-fusion_complex_proteins_in_giant_viruses
-    display: bioRxiv (2023)
+    url:
+    display: Microbiology Spectrum (accepted)
   highlight:
   news1:
 
@@ -16,6 +16,16 @@
     url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02845-1
     display: Genome Biology (2023)
   highlight: 1
+  news1:
+
+- title: "Widespread distribution and evolution of poxviral entry-fusion complex proteins in giant viruses"
+  image:
+  description:
+  authors: Sheng Kao, Chi-Fei Kao, Wen Chang, Chuan Ku
+  link:
+    url: https://www.researchgate.net/publication/367286701_Widespread_distribution_and_evolution_of_poxviral_entry-fusion_complex_proteins_in_giant_viruses
+    display: bioRxiv (2023)
+  highlight:
   news1:
 
 - title: "Complete genome sequence of <i>Phaeobacter</i> sp. strain G2 isolated from lab culture of the calcifying alga <i>Emiliania huxleyi</i>"
