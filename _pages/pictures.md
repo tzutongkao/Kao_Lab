@@ -41,8 +41,8 @@ permalink: /pictures/
 
 
 ### <a name="2022NSTCpostdoc"></a>Tzu-Tong received the 2022 Research Award for Postdoctoral Fellows from the National Science and Technology Council in recognition of his work (<a href='https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18219'>Kao et al. 2022 <i>New Phytologist</i></a>)
-<h5>13/Jan/2023</h5>
-<div id="homeid" class="col-sm-6">
+<h5>23/Mar/2023</h5>
+<div id="homeid" class="col-sm-12">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/230323/TTK.NSTCpostdoc2022.jpeg" width="60%">
 </figure>
