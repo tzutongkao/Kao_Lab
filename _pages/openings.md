@@ -12,7 +12,7 @@ permalink: /positions
 
 To apply for a specific position (see below), please send an [email](mailto:chuanku@gate.sinica.edu.tw) with the subject IPMB_application_WhatPosition_YourName directly to Chuan Ku, briefly mentioning how you knew about our lab and describing your research interests, experience, skills, future plan, and contact details of one or two referees. A single PDF should be attached that includes your CV, and, if relevant, transcripts, degree certificates, thesis title and abstract, and proofs of relevant skills and experience.
 
-English is the working language in our lab and institute. Mandarin skills are not required, but there are free classes on campus for those interested. 
+English is the working language in our lab and institute. Mandarin skills are not required, but there are free classes on campus for those interested.
 
 <br/>
 
@@ -66,7 +66,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
   * [Ecology and Evolutionary Biology (EEB) (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_phd)
 
 #### Benefits
-* Stipend: ~1,200-1,800 USD/month
+* Stipend: ~1,300-1,800 USD/month
 * Subsidized national health insurance
 * Eligibility for dormitory housing
 * Funding for attending international conferences, workshops, or courses (incl. EMBO-funded PhD courses)
