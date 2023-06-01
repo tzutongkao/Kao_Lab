@@ -127,12 +127,12 @@ There are quite some programs available for short-term research stays in our lab
     * Application deadline: March 9
 
 #### Visits/collaboration
-* [EMBO Short-Term Fellowship](https://www.embo.org/funding-awards/fellowships/short-term-fellowships)
+* [EMBO Scientific Exchange Grants](https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/)
   * Duration: 1 week to 3 months (can be extended to 6 months)
   * Eligibility: researchers at any stage in their career
     * with at least one year of research experience at the PhD-student level (or the equivalent) and
     * associated with a home institution in [an EMBC member, associate member or cooperation state](https://www.embo.org/about-embo/member-states) other than Taiwan
-  * Benefits: travel costs, stipend (65 EUR/day)
+  * Benefits: travel costs, stipend (68 EUR/day)
   * Application deadlines: accepted throughout the year
 
 <br/>
