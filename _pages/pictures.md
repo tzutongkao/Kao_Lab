@@ -7,6 +7,7 @@ permalink: /pictures/
 
 # Pictures
 #### 2023
+* [Green Island field trip](#2023GI)
 * [Tzu-Tong receiving 2022 NSTC Research Award for Postdocs](#2022NSTCpostdoc)
 * [Joint lab meeting with Ying-Chung Jimmy Lin lab](#2022YEP)
 * [MiTalk 7 Young Scientist Meeting](#2023Mitalk)
@@ -38,6 +39,30 @@ permalink: /pictures/
 #### [Lab equipment]({{ site.url }}{{ site.baseurl }}/pictures/equipment)
 
 <br/>
+
+
+### <a name="2023GI"></a>Green Island Marine Research Station: seawater sampling with the labs of Oscar Branson (Department of Earth Sciences, University of Cambridge) and Haojia Ren (Department of Geosciences, National Taiwan University)
+<h5>17/Jan/2023</h5>
+<div id="homeid" class="col-sm-6">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.1.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-6" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.2.jpeg" width="100%"></figure>
+</div>
+
+<div id="newsid" class="col-sm-6" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.3.jpeg" width="100%"></figure>
+</div>
+
+<div id="newsid" class="col-sm-6" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.4.jpeg" width="100%"></figure>
+</div>
 
 
 ### <a name="2022NSTCpostdoc"></a>Tzu-Tong received the 2022 Research Award for Postdoctoral Fellows from the National Science and Technology Council in recognition of his work (<a href='https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18219'>Kao et al. 2022 <i>New Phytologist</i></a>)
