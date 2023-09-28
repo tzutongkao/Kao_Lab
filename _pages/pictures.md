@@ -42,14 +42,14 @@ permalink: /pictures/
 
 
 ### <a name="2023GI"></a>Green Island Marine Research Station: seawater sampling with the labs of Oscar Branson (Department of Earth Sciences, University of Cambridge) and Haojia Ren (Department of Geosciences, National Taiwan University)
-<h5>22/Aug/2023_02/Sep/2023</h5>
+<h5>22/Aug/2023–02/Sep/2023</h5>
 <div id="homeid" class="col-sm-6">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.1.jpeg" width="100%">
 </figure>
 </div>
 
-<div id="newsid" class="col-sm-6" >
+<div id="homeid" class="col-sm-6" >
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.2.jpeg" width="100%">
 </figure>
