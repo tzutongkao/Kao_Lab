@@ -58,13 +58,13 @@ permalink: /pictures/
 
 <div id="homeid" class="col-sm-3" >
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.3.jpeg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.4.jpeg" width="100%">
 </figure>
 </div>
 
 <div id="homeid" class="col-sm-3" >
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.4.jpeg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.3.jpeg" width="100%">
 </figure>
 </div>
 
