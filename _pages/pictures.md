@@ -5,7 +5,7 @@ excerpt: "Ku Lab -- Gallery"
 permalink: /pictures/
 ---
 
-# Pictures
+# Photo Gallery
 #### 2023
 * [Green Island field trip](#2023GI)
 * [Tzu-Tong receiving 2022 NSTC Research Award for Postdocs](#2022NSTCpostdoc)
