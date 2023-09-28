@@ -28,13 +28,14 @@ Our lab belongs to the [Institute of Plant and Microbial Biology](https://ipmb.s
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/20220418_R220_group_2.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230813_230815_YuanyangLakeNR/2023YuanyangLake.1.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/190917_1.jpg" alt="Slide 2" />
@@ -49,7 +50,10 @@ Our lab belongs to the [Institute of Plant and Microbial Biology](https://ipmb.s
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PhilTransB_Fig1.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/VirusEvol2021.Figure_2.website.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/VirusEvol2021.Figure_2.website.png" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/20220418_R220_group_2.jpg" alt="Slide 6" />
         </div>
 
     </div>
