@@ -70,26 +70,26 @@ permalink: /pictures/
 
 
 ### <a name="2023Yuanyang"></a>Field trip to Yuanyang Lake Nature Reserve, Hsinchu, Taiwan
-<h5>14/Aug/2023</h5>
-<div id="homeid" class="col-sm-3">
+<h5>13/Aug/2023–15/Aug/2023</h5>
+<div id="homeid" class="col-sm-6">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230813_230815_YuanyangLakeNR/2023YuanyangLake.1.jpeg" width="100%">
 </figure>
 </div>
 
-<div id="newsid" class="col-sm-3" >
+<div id="newsid" class="col-sm-6" >
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230813_230815_YuanyangLakeNR/2023YuanyangLake.2.jpeg" width="100%">
 </figure>
 </div>
 
-<div id="newsid" class="col-sm-3" >
+<div id="newsid" class="col-sm-6" >
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230813_230815_YuanyangLakeNR/2023YuanyangLake.3.jpeg" width="100%">
 </figure>
 </div>
 
-<div id="newsid" class="col-sm-3" >
+<div id="newsid" class="col-sm-6" >
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230813_230815_YuanyangLakeNR/2023YuanyangLake.4.jpeg" width="100%">
 </figure>
