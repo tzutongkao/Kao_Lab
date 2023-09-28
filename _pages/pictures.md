@@ -8,6 +8,7 @@ permalink: /pictures/
 # Photo Gallery
 #### 2023
 * [Green Island field trip](#2023GI)
+* [Yuanyang Lake Nature Reserve field trip](#2023Yuanyang)
 * [Tzu-Tong receiving 2022 NSTC Research Award for Postdocs](#2022NSTCpostdoc)
 * [Joint lab meeting with Ying-Chung Jimmy Lin lab](#2022YEP)
 * [MiTalk 7 Young Scientist Meeting](#2023Mitalk)
@@ -66,6 +67,33 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.4.jpeg" width="100%">
 </figure>
 <br/>
+</div>
+
+
+### <a name="2023Yuanyang"></a>Field trip to Yuanyang Lake Nature Reserve, Hsinchu, Taiwan
+<h5>14/Aug/2023</h5>
+<div id="homeid" class="col-sm-3">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230813_230815_YuanyangLakeNR/2023YuanyangLake.1.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-3" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230813_230815_YuanyangLakeNR/2023YuanyangLake.2.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-3" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230813_230815_YuanyangLakeNR/2023YuanyangLake.3.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-3" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230813_230815_YuanyangLakeNR/2023YuanyangLake.4.jpeg" width="100%">
+</figure>
 </div>
 
 
