@@ -61,11 +61,12 @@ permalink: /pictures/
 </figure>
 </div>
 
-<div id="newsid" class="col-sm-6" >
+<div id="homeid" class="col-sm-6" >
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/FieldTrips/230822_230902_GreenIsland/2023GreenIsland.4.jpeg" width="100%">
 </figure>
 </div>
+
 <br/>
 
 
