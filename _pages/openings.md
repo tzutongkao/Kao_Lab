@@ -92,7 +92,7 @@ Master's programs in Taiwan are usually for two years. Our lab is associated wit
 * Eligibility for dormitory housing
 
 #### Application and additional information
-* National Taiwan University (GSB, EEB): [application](https://admissions.ntu.edu.tw/apply/international-applications/), [Office of International affairs)](https://oia.ntu.edu.tw/en/), [College of Life Science](https://youtu.be/mthyfB0OJR8)
+* National Taiwan University (GSB, EEB): [application](https://admissions.ntu.edu.tw/apply/international-applications/), [Office of International affairs](https://oia.ntu.edu.tw/en/), [College of Life Science](https://youtu.be/mthyfB0OJR8)
 
 <br/>
 
