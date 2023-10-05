@@ -66,7 +66,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
   * [Ecology and Evolutionary Biology (EEB) (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_phd)
 
 #### Benefits
-* Stipend: ~1,300-1,900 USD/month (for a PhD duration of 3–5 years)
+* Stipend: ~1,500-1,900 USD/month (for a PhD duration of 3–5 years)
 * Subsidized national health insurance
 * Eligibility for dormitory housing
 * Funding for attending international conferences, workshops, or courses (incl. EMBO-funded PhD courses)
