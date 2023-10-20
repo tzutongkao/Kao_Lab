@@ -96,7 +96,7 @@ Master's programs in Taiwan are usually for two years. Our lab is associated wit
 
 <br/>
 
-### Research internships or exchanges
+### Research internships, exchanges and collaboration
 There are quite some programs available for short-term research stays in our lab. Below are just a few.
 
 #### Internships
@@ -134,5 +134,9 @@ There are quite some programs available for short-term research stays in our lab
     * associated with a home institution in [an EMBC member, associate member or cooperation state](https://www.embo.org/about-embo/member-states) other than Taiwan
   * Benefits: travel costs, stipend (68 EUR/day)
   * Application deadlines: accepted throughout the year
+* [Taiwan International Graduate Program-X (TIGP-X)](https://tigpx.dia.sinica.edu.tw/): co-supervision of PhD researchers by a home university (outside Taiwan) and AS
+  * Duration of research stay at AS: 3 months to 3 years during the PhD research
+  * Stipend during research stay at AS: ~20,000 USD/year
+  * Benefits: travel costs and other benefits of regular PhD researchers at AS
 
 <br/>
