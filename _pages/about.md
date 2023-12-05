@@ -24,7 +24,7 @@ Our institute is located in Taipei, the capital city of Taiwan and center of the
 
 Haven't been to Taiwan? Check out these websites to learn more about Taipei and Taiwan:
 * [Some quick facts](https://www.studyintaiwan.org/discover/quick) and [an overview of Taiwan](https://lifeoftaiwan.com/about-taiwan/)
-* [Our institutional guide for foreigners](https://dia.sinica.edu.tw/uploads/datas/2018/2/7663197245e19062cda00fe169391522.pdf)
+* [Our institutional guide for foreigners](https://www.ifs.sinica.edu.tw/)
 * [Expat Insider](https://www.internations.org/expat-insider/2019/best-and-worst-places-for-expats-39829) named Taiwan one of the best destinations for expats.
 * Taipei provides top [health care](https://www.numbeo.com/health-care/rankings_by_country.jsp) and has one of the lowest [crime rates](https://www.numbeo.com/crime/rankings.jsp) among ~300 cities in the world.
 * [Living costs in Taipei](https://www.borderless-house.com/tw/blog/taipei-20151216/). Our campus is on the outskirts of Taipei City, where the rent and other expenses might be different.
