@@ -47,7 +47,7 @@ permalink: /pictures/
 <h5>28/Nov/2023</h5>
 <div id="homeid" class="col-sm-12">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/230323/HTL.IPMBposter.jpeg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PrizeAward/231128/HTL.IPMBposter.jpeg" width="40%">
 </figure>
 </div>
 
