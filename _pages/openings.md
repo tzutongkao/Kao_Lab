@@ -138,5 +138,8 @@ There are quite some programs available for short-term research stays in our lab
   * Duration of research stay at AS: 3 months to 3 years during the PhD research
   * Stipend during research stay at AS: ~20,000 USD/year
   * Benefits: travel costs and other benefits of regular PhD researchers at AS
+* Funded visits for PhD or postdoc interviews at our lab
+  * Duration: 5 days or longer
+  * Benefits: travel costs (up to 1,800 EUR covered by the EMBO Global Investigator grant)
 
 <br/>
