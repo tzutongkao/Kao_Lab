@@ -125,6 +125,12 @@ There are quite some programs available for short-term research stays in our lab
     * Eligibility: undergraduate students enrolled at a Taiwanese university
     * Benefits: stipend (~200 USD/month)
     * Application deadline: March 9
+* [NSTC International Internship Pilot Program (IIPP)](https://iipp.tw/program)
+    * Duration: 2-3 months (throughout the year)
+    * Eligibility: undergraduate or graduate students enrolled at a non-Taiwanese university
+    * Benefits: stipend (~950 USD/month)
+    * Application deadline: throughout the year (no later than October 15)
+
 
 #### Visits/collaboration
 * [EMBO Scientific Exchange Grants](https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/)
