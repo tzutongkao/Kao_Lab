@@ -18,17 +18,17 @@
   photo: TsuWang.jpg
   duration: 2019.07–2021.02
   info: M.Sc. student (2020.09–2021.02); undergrad researcher (2019.07–2020.02)
-  email: stsuwang@smail.nchu.edu.tw
+  email: stsuwang[at]]smail.nchu.edu.tw
   number_educ: 1
   education1: B.Sc., Plant Pathology, National Chung Hsing University; Undergraduate research grant from Ministry of Science and Technology (2019.07–2020.02); M.Sc., Genome and Systems Biology, National Taiwan University (2020.09–2022.12); Poster Prize in NTU-AS Genome and Systems Biology Degree Program retreat (2020)
 
-- name: Serge Ryndov
-  photo: Serge_210408.jpg
-  duration: 2021.04–2021.09
-  info: Research associate
-  email: as0210443@gate.sinica.edu.tw
+- name: Maxime Allioux (馬克辛 阿立兀)
+  photo: Maxime.jpg
+  duration: 2022.10–2023.11
+  info: Postdoctoral researcher
+  email: allioux[at]gate.sinica.edu.tw
   number_educ: 1
-  education1: B.Eng., Environmental Engineering, South-Eastern Finland University of Applied Sciences, Finland (2013-2017); M.Sc., Ecology and Evolutionary Biology, University of Jyväskylä, Finland (2018-2021)
+  education1: B.Sc., Biology, Université Paris-Sud, France; M.Sc., Biology, Université de Versailles Saint-Quentin-en-Yvelines, France; Ph.D., Marine Microbiology, Université de Bretagne Occidentale, France (with <a href="https://www.univ-brest.fr/menu/recherche-innovation/pages-chercheurs/ALAIN-Karine/">Karine Alain</a>)
 
 - name: Alyzza Calayag
   photo: Alyzza.jpg
@@ -37,6 +37,14 @@
   email: acalayag0001@gate.sinica.edu.tw
   number_educ: 1
   education1: B.Sc., Biology, University of the Philippines Diliman, Philippines; M.Sc., Microbiology, University of the Philippines Diliman, Philippines
+
+- name: Serge Ryndov
+  photo: Serge_210408.jpg
+  duration: 2021.04–2021.09
+  info: Research associate
+  email: as0210443@gate.sinica.edu.tw
+  number_educ: 1
+  education1: B.Eng., Environmental Engineering, South-Eastern Finland University of Applied Sciences, Finland (2013-2017); M.Sc., Ecology and Evolutionary Biology, University of Jyväskylä, Finland (2018-2021)
 
 - name: Ho-Lin Chung
   photo: HoLin.jpg
