@@ -2,7 +2,7 @@
   photo: TzuTong.jpg
   duration: 2020.02–2024.01
   info: Postdoctoral researcher
-  email: tzutongkao@mail.nsysu.edu.tw
+  email: tzutongkao[at]mail.nsysu.edu.tw
   number_educ: 1
   education1: B.Sc., Life Science, National Taiwan University, Taiwan; M.Sc., Ecology and Evolutionary Biology, Natioanl Taiwan University, Taiwan; Research assistant, Taiwan Forestry Research Institute, Taiwan; Ph.D., Biology, Duke University, USA; NSTC Research Award for Postdoctoral Fellows (2023)
 
@@ -13,46 +13,6 @@
   email:
   number_educ: 1
   education1: B.Sc. & M.Sc., Environmental Biology and Fisheries Science, National Taiwan Ocean University (with Kuo-Ping Chiang)
-
-- name: Vi Lê
-  photo: Vi.jpg
-  duration: 2020.02–2020.05
-  info: Research intern
-  email: khanhvilt@gmail.com
-  number_educ: 1
-  education1: B.Sc., Biotechnology, Vietnamese National University, Vietnam (2017-2021)
-
-- name: Shang-Hong Lin (林上泓)
-  photo: ShangHong.jpg
-  duration: 2020.07–2020.12
-  info: Research intern
-  email: s0624011@gm.ncue.edu.tw
-  number_educ: 1
-  education1: B.Sc., Biology, National Changhua University of Education (2017–2021)
-
-- name: Elias Miguel Barreira
-  photo: Elias.v2.jpg
-  duration: 2020.09–2020.12
-  info: Visiting master's student
-  email: libraries.area@gmail.com
-  number_educ: 1
-  education1: M.Sc., Computer Science, University of Lisbon, Portugal (2011-2015); M.Sc., Bioinformatics, University of Lisbon, Portugal (2018-)
-
-- name: Iris Wu
-  photo: IrisWu.jpg
-  duration: 2021.01–2021.05
-  info: Research intern
-  email: iriswu26@berkeley.edu
-  number_educ: 1
-  education1: B.S., Molecular Environmental Biology, University of California, Berkley, USA (2017.08–)
-
-- name: Tong Jyun (Tom) Ho
-  photo: Tom.jpg
-  duration: 2020.06–2021.05
-  info: Research intern
-  email: th456@cornell.edu
-  number_educ: 1
-  education1: B.A., Biological Sciences, Cornell University, USA (2017.08–)
 
 - name: Tsu-Wang Sun (孫祖望)
   photo: TsuWang.jpg
@@ -101,3 +61,67 @@
   email: sheng.kao@oberlin.edu
   number_educ: 1
   education1: B.A., Biology with Computer Science minor, Oberlin College, USA
+
+- name: Chi-Yun Chang
+  photo: ChiYun.jpg
+  duration: 2023.09–2024.01
+  info: PhD researcher / rotation student
+  email: chang0028[at]gate.sinica.edu.tw
+  number_educ: 1
+  education1: B.Sc., Department of Life Science, Tunghai University, Taiwan; M.Sc., Department of Life Science, Tunghai University, Taiwan; Ph.D., Taiwan International Graduate Program Biodiversity, Tunghai University and Academia Sinica, Taiwan (2023.08–)
+
+- name: Vi Lê
+  photo: Vi.jpg
+  duration: 2020.02–2020.05
+  info: Research intern
+  email: khanhvilt@gmail.com
+  number_educ: 1
+  education1: B.Sc., Biotechnology, Vietnamese National University, Vietnam (2017-2021)
+
+- name: Shang-Hong Lin (林上泓)
+  photo: ShangHong.jpg
+  duration: 2020.07–2020.12
+  info: Research intern
+  email: s0624011@gm.ncue.edu.tw
+  number_educ: 1
+  education1: B.Sc., Biology, National Changhua University of Education (2017–2021)
+
+- name: Elias Miguel Barreira
+  photo: Elias.v2.jpg
+  duration: 2020.09–2020.12
+  info: Visiting master's student
+  email: libraries.area@gmail.com
+  number_educ: 1
+  education1: M.Sc., Computer Science, University of Lisbon, Portugal (2011-2015); M.Sc., Bioinformatics, University of Lisbon, Portugal (2018-)
+
+- name: Iris Wu
+  photo: IrisWu.jpg
+  duration: 2021.01–2021.05
+  info: Research intern
+  email: iriswu26@berkeley.edu
+  number_educ: 1
+  education1: B.S., Molecular Environmental Biology, University of California, Berkley, USA (2017.08–)
+
+- name: Tong Jyun (Tom) Ho
+  photo: Tom.jpg
+  duration: 2020.06–2021.05
+  info: Research intern
+  email: th456@cornell.edu
+  number_educ: 1
+  education1: B.A., Biological Sciences, Cornell University, USA (2017.08–)
+
+- name: Kim Henri Alonzo
+  photo: Henri.jpg
+  duration: 2023.05–2023.07
+  info: TIGP research intern
+  email: kfalonzo[at]up.edu.ph
+  number_educ: 1
+  education1: B.Sc., Fisheries, University of the Philippines Visayas, Philippines; M.Sc., Marine Science (Biotechnology track), University of the Philippines Diliman, Philippines (2018-)
+
+- name: Laura Menke
+  photo: LauraMenke.jpg
+  duration: 2023.07–2023.08
+  info: DAAD RISE Worldwide intern
+  email: menke.laura[at]outlook.de
+  number_educ: 1
+  education1: B.Sc., Aquatic Biology, University of Duisburg-Essen, Germany
