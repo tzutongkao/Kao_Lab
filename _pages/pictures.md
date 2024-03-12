@@ -6,6 +6,9 @@ permalink: /pictures/
 ---
 
 # Photo Gallery
+#### 2024
+* [Visit by Michael Borg](#2024Borg)
+
 #### 2023
 * [Hsin-Tung winning 2023 IPMB Poster Competition bronze award](#2023IPMBposter)
 * [Green Island field trip](#2023GI)
@@ -41,6 +44,21 @@ permalink: /pictures/
 #### [Lab equipment]({{ site.url }}{{ site.baseurl }}/pictures/equipment)
 
 <br/>
+
+
+### <a name="2024Borg"></a>Michael Borg (Department of Algal Development and Evolution, Max Planck Institute for Biology, Tübingen) visits IPMB
+<h5>29/Feb/2024–07/Mar/2024</h5>
+<div id="homeid" class="col-sm-6">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/240229_MichaelBorg/240229.jpeg" width="100%">
+</figure>
+</div>
+
+<div id="homeid" class="col-sm-6" >
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/240229_MichaelBorg/P_20240307_124216.jpg" width="100%">
+</figure>
+</div>
 
 
 ### <a name="2023IPMBposter"></a>Hsin-Tung won the Bronze Award at the annual poster competition of the Institute of Plant and Microbial Biology
