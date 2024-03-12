@@ -54,7 +54,7 @@ permalink: /pictures/
 </figure>
 </div>
 
-<div id="homeid" class="col-sm-6" >
+<div id="newsid" class="col-sm-6" >
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/240229_MichaelBorg/P_20240307_124216.jpg" width="100%">
 </figure>
