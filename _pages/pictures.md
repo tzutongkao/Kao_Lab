@@ -48,13 +48,13 @@ permalink: /pictures/
 
 ### <a name="2024Borg"></a>Michael Borg (Department of Algal Development and Evolution, Max Planck Institute for Biology, Tübingen) visits IPMB
 <h5>29/Feb/2024–07/Mar/2024</h5>
-<div id="homeid" class="col-sm-6">
+<div id="homeid" class="col-sm-5">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/240229_MichaelBorg/240229.jpeg" width="100%">
 </figure>
 </div>
 
-<div id="newsid" class="col-sm-6" >
+<div id="newsid" class="col-sm-7">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/LabGatherings/240229_MichaelBorg/P_20240307_124216.jpg" width="100%">
 </figure>
