@@ -14,7 +14,7 @@ twitter:
   id: 'chuanku_'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  fa-icon: 'fa-twitter'
 
 github:
   id: 'chuanku-lab'
