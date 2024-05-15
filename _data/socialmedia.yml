@@ -20,13 +20,7 @@ github:
   id: 'chuanku-lab'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-github-square'
-
-googlescholar:
-  id: 'citations?hl=en&user=1BDzxq8AAAAJ&view_op=list_works'
-  href: 'https://scholar.google.com/'
-  title: 'Google Scholar'
-  fa-icon: 'fa-google-scholar'
+  fa-icon: 'fa-github'
 
 orcid:
   id: '0000-0001-6414-4423'
