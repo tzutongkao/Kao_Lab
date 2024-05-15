@@ -4,12 +4,6 @@ email:
   title: 'Email'
   fa-icon: 'fa-envelope-square'
 
-facebook:
-  id:
-  href: 'https://www.facebook.com/'
-  title: 'Facebook'
-  fa-icon: 'fa-facebook-square'
-
 twitter:
   id: 'chuanku_'
   href: 'https://www.twitter.com/'
