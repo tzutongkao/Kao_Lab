@@ -15,7 +15,13 @@ orcid:
   href: 'https://orcid.org/'
   title: 'ORCID'
   fa-icon: 'fa-orcid'
-  
+
+google-scholar:
+  id: 'citations?hl=en&user=1BDzxq8AAAAJ&view_op=list_works'
+  href: 'https://scholar.google.com/'
+  title: 'Google Scholar'
+  fa-icon: 'fa-google-scholar'
+
 github:
   id: 'chuanku-lab'
   href: 'https://github.com/'
