@@ -40,7 +40,6 @@
               {% assign key = entry | first %}
               {% if sm[key].id %}
                   <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fab {{ sm[key].fa-icon }} fa-3x"></i></a>
-                  {{ sm[key].fa-icon }}
               {% endif %}
           {% endfor %}
       </div>
