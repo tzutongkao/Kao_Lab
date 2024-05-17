@@ -22,7 +22,7 @@ Postdoc positions can be funded by the options below. All applicants will be enc
 #### Funding
 * [EMBO Postdoctoral Fellowship](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships)
   * Eligibility: People who move from, are nationals of, and have performed their PhD in [an EMBC member, associate member or cooperation state](https://www.embo.org/about-embo/member-states) other than Taiwan
-* [Academia Sinica Postdoctoral Fellowship (Regular or Distinguished)](https://daais.sinica.edu.tw/pages/815)
+* [Academia Sinica Postdoctoral Scholar Program](https://daais.sinica.edu.tw/posts/182480)
 * [HFSP Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
   * Eligibility: People who are nationals of HFSP member countries
 * National Science and Technology Council (NSTC, Taiwan) Postdoctoral Fellowship
